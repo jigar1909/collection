@@ -66,6 +66,7 @@ async function updateGithubFile(content) {
 async function syncWebflowToGithub() {
     try {
         const webflowData = await getMainCollectionItems();
+        console.log("webflowdata",webflowData)
         await updateGithubFile(webflowData);
     } catch (error) {
         console.error('Error syncing Webflow to GitHub:', error);
