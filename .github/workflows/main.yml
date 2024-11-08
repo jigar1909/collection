@@ -23,8 +23,8 @@ jobs:
 
     - name: Install dependencies
       run: |
-        npm install # Assuming you have a package.json file
+        npm install
 
     - name: Run the script
       run: |
-        node main.js # Run your main script
+        node index.js 
