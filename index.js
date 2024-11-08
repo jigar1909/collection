@@ -1,5 +1,5 @@
 import axios from 'axios';
-
+import { Octokit } from "@octokit/rest"
 import dotenv from 'dotenv';
 dotenv.config();
 
@@ -67,7 +67,7 @@ async function updateGithubFile(content) {
 async function syncWebflowToGithub() {
     try {
         const webflowData = await getMainCollectionItems();
-        console.log("webflowdatas",webflowData)
+        console.log("webflowdatas", webflowData)
         await updateGithubFile(webflowData);
     } catch (error) {
         console.error('Error syncing Webflow to GitHub:', error);
