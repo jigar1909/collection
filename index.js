@@ -7,7 +7,7 @@ dotenv.config();
 
 const GITHUB_OWNER = 'jigar1909';
 const GITHUB_REPO = 'collection';
-const FILE_PATH = 'responase.json';
+const FILE_PATH = 'response.json';
 
 var global_collection_id = '67288449c46837a60804f938';
 const webflowAPI = axios.create({
