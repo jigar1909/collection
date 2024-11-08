@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-require('dotenv').config();
+import dotenv from 'dotenv';
+dotenv.config();
 
 // var api_token = 'bcade9a16e641328ce0445e6b32b861374577653c27150f2de78364e3645cbde';
 
