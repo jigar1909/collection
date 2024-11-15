@@ -3,12 +3,12 @@ export const webflowResponse = [
     "id": "67289a40bf64a2c2d5c377ed",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-11-04T10:32:27.015Z",
+    "lastUpdated": "2024-11-13T13:30:24.687Z",
     "createdOn": "2024-11-04T09:56:16.848Z",
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
-      "name": "Pulse",
+      "name": "PULSE",
       "slug": "power-your-decisions-with-advanced-analytics",
       "signup-page-title": "Power Your Decisions with Advanced Analytics",
       "client-logo-section-title": "Trusted by 250+ eCommerce Brands & Agencies in USA & EU ",
@@ -33,13 +33,13 @@ export const webflowResponse = [
     "id": "672886949689843324392e3d",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-11-04T10:32:36.058Z",
+    "lastUpdated": "2024-11-13T13:30:33.234Z",
     "createdOn": "2024-11-04T08:32:20.687Z",
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
       "client-logo-section-title": "Trusted by 250+ eCommerce Brands & Agencies in USA & EU ",
-      "name": "daton",
+      "name": "DATON",
       "slug": "unify-your-ecommerce-data-from-250-sources-make-analytics-ready",
       "signup-page-title": "Unify your eCommerce data from 250+ sources & make analytics ready",
       "keyfeatures-2": [
@@ -63,23 +63,24 @@ export const webflowResponse = [
     "id": "6728866e3ee0071e5b155d7b",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-11-04T10:32:44.585Z",
+    "lastUpdated": "2024-11-15T07:00:14.100Z",
     "createdOn": "2024-11-04T08:31:42.209Z",
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
       "client-logo-section-title": "Trusted by 250+ eCommerce Brands & Agencies in USA & EU ",
-      "name": "Global",
+      "name": "GLOBAL",
       "slug": "enabling-ecommerce-brands-agencies-to-unlock-data-driven-growth-opportunities-global",
       "signup-page-title": "Enabling eCommerce brands & agencies to unlock data-driven growth opportunities",
-      "home-page-card": [
-        "67288537da292934f50ea4ca",
-        "67288537da292934f50ea4cc"
-      ],
       "client-logo": [
         "67288e7fafbed21b426a666d",
         "67288e912dd4b564ae70247d",
         "67288eaddc07c20fdc1fbc82"
+      ],
+      "signup-page-card-content": [
+        "6735cdeedbd8fa93e1bed62d",
+        "6735ce24639986d6933a91b4",
+        "6735ce3dd021b595dbe08bbc"
       ]
     }
   }
