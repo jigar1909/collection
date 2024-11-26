@@ -3,7 +3,7 @@
     "id": "67289a40bf64a2c2d5c377ed",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-11-18T08:58:04.455Z",
+    "lastUpdated": "2024-11-25T12:47:44.250Z",
     "createdOn": "2024-11-04T09:56:16.848Z",
     "isArchived": false,
     "isDraft": false,
@@ -28,6 +28,12 @@
         "67288eaddc07c20fdc1fbc82",
         "673487d081e43d472ddb30b1",
         "673488cab6b06bb03c5df05d"
+      ],
+      "product-onboarding-welcome-page": [
+        "674466d618dcdceaf7b16ce7"
+      ],
+      "product-onboarding-welcome-page-client-testimonials": [
+        "67446f8fbd27710e138af385"
       ]
     }
   },
