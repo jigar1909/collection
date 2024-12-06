@@ -3,16 +3,14 @@ export const webflowResponse = [
     "id": "67289a40bf64a2c2d5c377ed",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-12-05T10:41:28.899Z",
+    "lastUpdated": "2024-12-06T12:43:19.295Z",
     "createdOn": "2024-11-04T09:56:16.848Z",
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
       "name": "PULSE",
       "slug": "power-your-decisions-with-advanced-analytics",
-      "product-onboarding-welcome-page": [
-        "674466d618dcdceaf7b16ce7"
-      ],
+      "product-onboarding-welcome-page": [],
       "product-onboarding-welcome-page-client-testimonials": [],
       "product-pages": [
         {
@@ -432,6 +430,140 @@ export const webflowResponse = [
               }
             ],
             "slug": "globalsignup-home-page"
+          }
+        },
+        {
+          "id": "6748679ae222f213d602bcea",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-06T12:40:59.321Z",
+          "createdOn": "2024-11-28T12:52:42.610Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "name": "pulse_onboarding_welcome",
+            "slug": "pulse-onboarding-welcome",
+            "linked-card": [
+              {
+                "id": "6747106f3088c3cb1e9c62ba",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-28T12:18:45.728Z",
+                "createdOn": "2024-11-27T12:28:31.231Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-title": "Customise your Experience in a Few Simple Steps",
+                  "card-pointers": "<p id=\"\">Tell us about your brand and business goals,</p><p id=\"\">Choose the features that best suit your needs,</p><p id=\"\">Connect your preferred data sources,</p>",
+                  "page-name-internal-identifier": "Pulse Onboarding Welcome Page",
+                  "name": "Pulse_Onboarding_ WelcomePage_GuideCard",
+                  "slug": "pulse-onboarding-welcomepage-guidecard"
+                }
+              }
+            ],
+            "linked-client": [
+              {
+                "id": "67486426602494c59017b1fd",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-28T12:39:12.194Z",
+                "createdOn": "2024-11-28T12:37:58.526Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "badd89a958e3efb26be90c8a5ead8489",
+                  "name": "Upscalio_clients_testimonials",
+                  "card-subtitle": "CEO",
+                  "card-title": "Jason Panzer",
+                  "card-description": "\"Saras Analytics provides reliable, data-driven\ninsights that empower us to make informed\ndecisions with confidence.\"",
+                  "client-logo": {
+                    "fileId": "6748642387b1194537192cbf",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6748642387b1194537192cbf_LOGO%20CLIENT.png",
+                    "alt": null
+                  },
+                  "slug": "pulse-onboarding-clients-testimonials",
+                  "client-image": {
+                    "fileId": "6744705950d571de836ec7e5",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6744705950d571de836ec7e5_6009864.png",
+                    "alt": null
+                  },
+                  "page-name-identifier": "pulse_onboarding_clients_testimonials"
+                }
+              },
+              {
+                "id": "673488cab6b06bb03c5df05d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "createdOn": "2024-11-13T11:08:58.969Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Murad",
+                  "client-logo": {
+                    "fileId": "673488c68039cbdbfbf14436",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673488c68039cbdbfbf14436_Murad.svg",
+                    "alt": null
+                  },
+                  "slug": "murad",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                }
+              },
+              {
+                "id": "67288e912dd4b564ae70247d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "createdOn": "2024-11-04T09:06:25.421Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sakara",
+                  "slug": "sakara",
+                  "client-logo": {
+                    "fileId": "67288e8e6245822b4ec5ac04",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673487d081e43d472ddb30b1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "createdOn": "2024-11-13T11:04:48.580Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sparkel",
+                  "slug": "sparkel"
+                }
+              },
+              {
+                "id": "67288e7fafbed21b426a666d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "createdOn": "2024-11-04T09:06:07.075Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Pyle",
+                  "slug": "pyle",
+                  "client-logo": {
+                    "fileId": "67288e784a4f53e7ce9511cc",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "alt": null
+                  }
+                }
+              }
+            ],
+            "page-note": "To speed up your onboarding, please have your required data source credentials handy",
+            "page-subtitle": "Let's get you set up effortlessly so you can unlock insights tailored to your unique needs.",
+            "page-subtitle-2-optional": "Empowering 200+ brands to unlock data-driven growth:",
+            "page-title": "Welcome to Pulse — <span>One unified platform for all your data needs</span>",
+            "product-name": "Pulse"
           }
         }
       ]
