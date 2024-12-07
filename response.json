@@ -3,21 +3,20 @@
     "id": "67289a40bf64a2c2d5c377ed",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-12-05T10:41:28.899Z",
+    "lastUpdated": "2024-12-06T12:43:19.295Z",
     "createdOn": "2024-11-04T09:56:16.848Z",
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
       "name": "PULSE",
       "slug": "power-your-decisions-with-advanced-analytics",
-      "product-onboarding-welcome-page": [
-        "674466d618dcdceaf7b16ce7"
-      ],
+      "product-onboarding-welcome-page": [],
       "product-onboarding-welcome-page-client-testimonials": [],
       "product-pages": [
         "6751819ff3c0797e12d3cfa3",
         "67518161aa74a19048ca99a9",
-        "6750543387c3d0883d2ea12f"
+        "6750543387c3d0883d2ea12f",
+        "6748679ae222f213d602bcea"
       ]
     }
   },
