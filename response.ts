@@ -162,7 +162,26 @@ export const webflowResponse = [
                 }
               }
             ],
-            "slug": "pulse-welcome-page"
+            "slug": "pulse-welcome-page",
+            "linked-card-2": [
+              {
+                "id": "675699d21319a327d4c8c9aa",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-09T07:18:42.249Z",
+                "createdOn": "2024-12-09T07:18:42.249Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-title": "Customise your Experience in a Few Simple Steps",
+                  "card-pointers": "<p id=\"\">Tell us about your brand and business goals,</p><p id=\"\">Choose the features that best suit your needs,</p><p id=\"\">Connect your preferred data sources,</p><p>‍</p>",
+                  "page-name-internal-identifier": "Pulse Onboarding Welcome Page",
+                  "name": "Pulse_Onboarding_ WelcomePage_GuideCard",
+                  "slug": "pulse-onboarding-welcomepage-guidecard"
+                }
+              }
+            ]
           }
         }
       ],
