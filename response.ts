@@ -131,6 +131,94 @@ export const webflowResponse = [
                   "slug": "globalsignup-saras-card3"
                 }
               }
+            ],
+            "linked-client": [
+              {
+                "id": "67288eaddc07c20fdc1fbc82",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "createdOn": "2024-11-04T09:06:53.216Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "InnoSupps",
+                  "slug": "innosupps",
+                  "client-logo": {
+                    "fileId": "67288ea1ee114596f1de8341",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673488cab6b06bb03c5df05d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "createdOn": "2024-11-13T11:08:58.969Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Murad",
+                  "client-logo": {
+                    "fileId": "673488c68039cbdbfbf14436",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673488c68039cbdbfbf14436_Murad.svg",
+                    "alt": null
+                  },
+                  "slug": "murad",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                }
+              },
+              {
+                "id": "67288e7fafbed21b426a666d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "createdOn": "2024-11-04T09:06:07.075Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Pyle",
+                  "slug": "pyle",
+                  "client-logo": {
+                    "fileId": "67288e784a4f53e7ce9511cc",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "67288e912dd4b564ae70247d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "createdOn": "2024-11-04T09:06:25.421Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sakara",
+                  "slug": "sakara",
+                  "client-logo": {
+                    "fileId": "67288e8e6245822b4ec5ac04",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673487d081e43d472ddb30b1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "createdOn": "2024-11-13T11:04:48.580Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sparkel",
+                  "slug": "sparkel"
+                }
+              }
             ]
           }
         },
@@ -248,6 +336,94 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-pulse-card3"
+                }
+              }
+            ],
+            "linked-client": [
+              {
+                "id": "67288eaddc07c20fdc1fbc82",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "createdOn": "2024-11-04T09:06:53.216Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "InnoSupps",
+                  "slug": "innosupps",
+                  "client-logo": {
+                    "fileId": "67288ea1ee114596f1de8341",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673488cab6b06bb03c5df05d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "createdOn": "2024-11-13T11:08:58.969Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Murad",
+                  "client-logo": {
+                    "fileId": "673488c68039cbdbfbf14436",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673488c68039cbdbfbf14436_Murad.svg",
+                    "alt": null
+                  },
+                  "slug": "murad",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                }
+              },
+              {
+                "id": "67288e7fafbed21b426a666d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "createdOn": "2024-11-04T09:06:07.075Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Pyle",
+                  "slug": "pyle",
+                  "client-logo": {
+                    "fileId": "67288e784a4f53e7ce9511cc",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "67288e912dd4b564ae70247d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "createdOn": "2024-11-04T09:06:25.421Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sakara",
+                  "slug": "sakara",
+                  "client-logo": {
+                    "fileId": "67288e8e6245822b4ec5ac04",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673487d081e43d472ddb30b1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "createdOn": "2024-11-13T11:04:48.580Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sparkel",
+                  "slug": "sparkel"
                 }
               }
             ],
@@ -377,7 +553,95 @@ export const webflowResponse = [
                 }
               }
             ],
-            "slug": "saras-signup-page"
+            "slug": "saras-signup-page",
+            "linked-client": [
+              {
+                "id": "67288eaddc07c20fdc1fbc82",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "createdOn": "2024-11-04T09:06:53.216Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "InnoSupps",
+                  "slug": "innosupps",
+                  "client-logo": {
+                    "fileId": "67288ea1ee114596f1de8341",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673488cab6b06bb03c5df05d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "createdOn": "2024-11-13T11:08:58.969Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Murad",
+                  "client-logo": {
+                    "fileId": "673488c68039cbdbfbf14436",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673488c68039cbdbfbf14436_Murad.svg",
+                    "alt": null
+                  },
+                  "slug": "murad",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                }
+              },
+              {
+                "id": "67288e7fafbed21b426a666d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "createdOn": "2024-11-04T09:06:07.075Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Pyle",
+                  "slug": "pyle",
+                  "client-logo": {
+                    "fileId": "67288e784a4f53e7ce9511cc",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "67288e912dd4b564ae70247d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "createdOn": "2024-11-04T09:06:25.421Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sakara",
+                  "slug": "sakara",
+                  "client-logo": {
+                    "fileId": "67288e8e6245822b4ec5ac04",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "673487d081e43d472ddb30b1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "createdOn": "2024-11-13T11:04:48.580Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sparkel",
+                  "slug": "sparkel"
+                }
+              }
+            ]
           }
         },
         {
@@ -605,23 +869,7 @@ export const webflowResponse = [
     "fieldData": {
       "name": "Pulse",
       "pulse-onboarding-product-pages": [
-        {
-          "id": "6756cd39a5e2779fca274f83",
-          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-          "lastPublished": null,
-          "lastUpdated": "2024-12-10T11:57:01.426Z",
-          "createdOn": "2024-12-09T10:58:01.792Z",
-          "isArchived": false,
-          "isDraft": false,
-          "fieldData": {
-            "product-name": "Pulse",
-            "name": "Pulse_welcome_page",
-            "page-subtitle-2-optional": "Empowering 200+ brands to unlock data-driven growth:",
-            "page-subtitle": "Let's get you set up effortlessly so you can unlock insights tailored to your unique needs.",
-            "page-title": "Welcome to Pulse — <span>One unified platform for all your data needs</span>",
-            "slug": "pulse-welcome-page"
-          }
-        }
+        "6756cd39a5e2779fca274f83"
       ],
       "slug": "pulse-onboarding-flow"
     }
