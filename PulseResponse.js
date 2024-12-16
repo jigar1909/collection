@@ -86,17 +86,17 @@ class GitHubApi {
 async function referenceCollectionItems(items, webflowApi) {
     for (let item of items) {
         const { fieldData } = item;
-
-        if (fieldData['product-pages']) {
-            const productPages = await webflowApi.fetchReferencedItems('674861c25051b00627a16caa', fieldData['product-pages']);
+        console.log("fieldData",fieldData);
+        if (fieldData['pulse-onboarding-product-pages']) {
+            const productPages = await webflowApi.fetchReferencedItems('6756ccc87b6c382cf8677f0f', fieldData['pulse-onboarding-product-pages']);
 
             for (let productPage of productPages) {
                 const productFieldData = productPage.fieldData;
 
-                if (productFieldData['linked-card']) {
-                    const linkedCards = productFieldData['linked-card'] = await webflowApi.fetchReferencedItems(
-                        '67470f043d813be862c27ac3',
-                        productFieldData['linked-card']
+                if (productFieldData['linked-card-2']) {
+                    const linkedCards = productFieldData['linked-card-2'] = await webflowApi.fetchReferencedItems(
+                        '6756998a632351aaddc2bb52',
+                        productFieldData['linked-card-2']
                     );
                     for (let card of linkedCards) {
                         if (card.fieldData['card-type-internal-identifier']) {
@@ -108,7 +108,7 @@ async function referenceCollectionItems(items, webflowApi) {
                             }
                         }
                     }
-                    productFieldData['linked-card'] = linkedCards;
+                    productFieldData['linked-card-2'] = linkedCards;
                 }
 
                 if (productFieldData['linked-client']) {
@@ -119,7 +119,7 @@ async function referenceCollectionItems(items, webflowApi) {
                 }
             }
 
-            fieldData['product-pages'] = productPages;
+            fieldData['pulse-onboarding-product-pages'] = productPages;
         }
     }
     return items;
@@ -133,8 +133,9 @@ async function syncWebflowToGithub() {
 
     try {
         const mainCollectionItems = await webflowApi.fetchMainCollectionItems();
-        const sarasItem = mainCollectionItems.filter(item => item.fieldData.name === "Saras");
-        const finalCollectionItems = await referenceCollectionItems(sarasItem, webflowApi);
+        const pulseItem = mainCollectionItems.filter(item => item.fieldData.name === "Pulse");
+        console.log("pulseItem",pulseItem);
+        const finalCollectionItems = await referenceCollectionItems(pulseItem, webflowApi);
         await githubApi.updateFile(finalCollectionItems);
     } catch (error) {
         console.error('Error syncing Webflow to GitHub:', error);
@@ -146,5 +147,5 @@ syncWebflowToGithub();
 export default async function getMainCollectionItems() {
     const webflowApi = new WebflowApi();
     const items = await webflowApi.fetchMainCollectionItems();
-    return items.filter(item => item.fieldData.name === "Saras");
+    return items.filter(item => item.fieldData.name === "Pulse");
 }
