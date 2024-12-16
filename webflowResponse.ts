@@ -3,7 +3,7 @@ export const webflowResponse = [
     "id": "6757c56e3bfe8dc3918ed32e",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-12-10T13:17:30.292Z",
+    "lastUpdated": "2024-12-16T08:56:50.110Z",
     "createdOn": "2024-12-10T04:37:02.909Z",
     "isArchived": false,
     "isDraft": false,
@@ -161,6 +161,87 @@ export const webflowResponse = [
                 }
               }
             ]
+          }
+        },
+        {
+          "id": "67582a08014f44bfd7225e8f",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-10T11:46:29.121Z",
+          "createdOn": "2024-12-10T11:46:16.467Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Charting Your Journey to Value Generation",
+            "page-subtitle-2-optional": "Brand name will be used consistently throughout Pulse; please enter a name that is most appropriate",
+            "product-name": "Pulse",
+            "name": "Pulse_brand_selection_page",
+            "slug": "pulse-onboarding-brand-selection-page"
+          }
+        },
+        {
+          "id": "67582a885dd6ca0dccddc463",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-10T11:50:26.558Z",
+          "createdOn": "2024-12-10T11:48:24.783Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Choose the features that you would like to activate",
+            "page-subtitle": "Based on your selected features and preferences, we'll recommend the most relevant dashboards to support your goals",
+            "page-subtitle-2-optional": "Having trouble deciding which dashboards are right for you? Reach out to us!",
+            "product-name": "Pulse",
+            "name": "Pulse_dashboard_page",
+            "slug": "pulse-usecases-dashboard-page"
+          }
+        },
+        {
+          "id": "67582cc3a114e668a0542188",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-10T11:57:55.123Z",
+          "createdOn": "2024-12-10T11:57:55.123Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "product-name": "Pulse",
+            "name": "Pulse_select_preference_page",
+            "slug": "pulse-select-preference-page"
+          }
+        },
+        {
+          "id": "67582af83c363ebe793f4b03",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-10T11:50:16.823Z",
+          "createdOn": "2024-12-10T11:50:16.823Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Almost there, choose the sources that you would like to connect",
+            "page-subtitle": "Connecting all the relevant sources may take some time, but the valuable insights you'll gain will be well worth it :)",
+            "page-subtitle-2-optional": "Having trouble setting up integrations? Contact us for assistance",
+            "product-name": "Pulse",
+            "name": "Pulse_source_page",
+            "slug": "pulse-source-page"
+          }
+        },
+        {
+          "id": "67582a4a1083c8fe09a3251c",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-10T11:47:44.211Z",
+          "createdOn": "2024-12-10T11:47:22.894Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Select the features that best align with your interests",
+            "page-subtitle": "Based on your selected features and preferences, we'll recommend the most relevant dashboards to support your goals",
+            "page-subtitle-2-optional": "Unsure which features to select? No worries—we’re here to assist you!",
+            "product-name": "Pulse",
+            "name": "Pulse_usecases_screen_page",
+            "slug": "pulse-usecases-screen-page"
           }
         }
       ],
