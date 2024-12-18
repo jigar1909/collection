@@ -3,7 +3,7 @@ export const webflowResponse = [
     "id": "67583e0a79ceffd429729421",
     "cmsLocaleId": "672882dbaf15942b1d3d3da6",
     "lastPublished": null,
-    "lastUpdated": "2024-12-10T13:11:38.966Z",
+    "lastUpdated": "2024-12-17T12:44:41.176Z",
     "createdOn": "2024-12-10T13:11:38.966Z",
     "isArchived": false,
     "isDraft": false,
@@ -37,7 +37,7 @@ export const webflowResponse = [
                   "card-subtitle": "You are one step away from Moving Your Data to desired Warehouse ",
                   "name": "GlobalLogin_daton_card",
                   "slug": "globallogin-daton-card",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Plain Card"
                 }
               }
@@ -82,7 +82,7 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Signup Card"
                 }
               },
@@ -107,7 +107,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-daton-card2",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Signup Card"
                 }
               },
@@ -132,7 +132,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-daton-card3",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Signup Card"
                 }
               }
@@ -255,7 +255,7 @@ export const webflowResponse = [
                   "card-subtitle": "You are one step away from Accessing your Insightful Business Dashboards ",
                   "name": "GlobalLogin_pulse_card",
                   "slug": "globallogin-pulse-card",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Plain Card"
                 }
               }
@@ -297,7 +297,7 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Signup Card"
                 }
               },
@@ -322,7 +322,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-pulse-card2",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Signup Card"
                 }
               },
@@ -347,7 +347,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-pulse-card3",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Signup Card"
                 }
               }
@@ -472,7 +472,7 @@ export const webflowResponse = [
                   "card-subtitle": "You're one step away from Experiencing the Power of Data Driven Growth ",
                   "name": "GlobalLogin_saras_card",
                   "slug": "globallogin-saras-card",
-                  "product-name": "Saras",
+                  "product-name": "6815bac69bbb40a9647e13d0f73b64f8",
                   "card-type": "Plain Card"
                 }
               }
@@ -517,7 +517,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-saras-card1",
-                  "product-name": "Saras",
+                  "product-name": "6815bac69bbb40a9647e13d0f73b64f8",
                   "card-type": "Signup Card"
                 }
               },
@@ -543,7 +543,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-saras-card2",
-                  "product-name": "Saras",
+                  "product-name": "6815bac69bbb40a9647e13d0f73b64f8",
                   "card-type": "Signup Card"
                 }
               },
@@ -569,7 +569,7 @@ export const webflowResponse = [
                     }
                   ],
                   "slug": "globalsignup-saras-card3",
-                  "product-name": "Saras",
+                  "product-name": "6815bac69bbb40a9647e13d0f73b64f8",
                   "card-type": "Signup Card"
                 }
               }
@@ -700,7 +700,7 @@ export const webflowResponse = [
                   ],
                   "slug": "daton-key-feature-card1",
                   "card-primary-link": "https://help.sarasanalytics.com/en_US/daton-get-started/how-to-get-started-with-daton-setup",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Key Features"
                 }
               },
@@ -727,7 +727,7 @@ export const webflowResponse = [
                     }
                   ],
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Key Features"
                 }
               },
@@ -754,7 +754,7 @@ export const webflowResponse = [
                   ],
                   "slug": "daton-key-feature-card3",
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/daton-free-trial",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Key Features"
                 }
               },
@@ -781,7 +781,7 @@ export const webflowResponse = [
                   ],
                   "slug": "daton-key-feature-card4",
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/terminology-in-daton",
-                  "product-name": "Daton",
+                  "product-name": "5abf557a175ba8f8c7cd98d270923bb6",
                   "card-type": "Key Features"
                 }
               },
@@ -809,7 +809,7 @@ export const webflowResponse = [
                   ],
                   "slug": "pulse-key-feature-card1",
                   "card-primary-link": "https://help.sarasanalytics.com/en_US/getting-started/setting-up-your-pulse-account",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Key Features"
                 }
               },
@@ -837,7 +837,7 @@ export const webflowResponse = [
                   "slug": "pulse-key-feature-card2",
                   "page-name-internal-identifier": "saras global home page",
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-walkthrough",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Key Features"
                 }
               },
@@ -865,7 +865,7 @@ export const webflowResponse = [
                   ],
                   "slug": "pulse-key-feature-card3",
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/free-trial-and-pricing",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Key Features"
                 }
               },
@@ -893,7 +893,7 @@ export const webflowResponse = [
                     }
                   ],
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-glossary",
-                  "product-name": "Pulse",
+                  "product-name": "45e47a3dbd00061d0afdbe30f76cf6b9",
                   "card-type": "Key Features"
                 }
               },
@@ -919,7 +919,7 @@ export const webflowResponse = [
                     }
                   ],
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
-                  "product-name": "Saras",
+                  "product-name": "6815bac69bbb40a9647e13d0f73b64f8",
                   "card-type": "With Primary link only"
                 }
               },
@@ -945,12 +945,63 @@ export const webflowResponse = [
                   ],
                   "slug": "globalsignup-pulse-product-card",
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-walkthrough",
-                  "product-name": "Saras",
+                  "product-name": "6815bac69bbb40a9647e13d0f73b64f8",
                   "card-type": "With Primary link only"
                 }
               }
             ],
             "slug": "saras-product-listing-page"
+          }
+        },
+        {
+          "id": "6761499f1fc72077a4e0642c",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-17T11:53:06.190Z",
+          "createdOn": "2024-12-17T09:51:27.510Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Welcome to",
+            "page-subtitle": "Daton",
+            "product-name": "Daton",
+            "name": "Daton Splash Screen Page",
+            "slug": "daton-splash-screen-page",
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525"
+          }
+        },
+        {
+          "id": "676149b9a735d3af9c0a5ba3",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-17T11:52:57.438Z",
+          "createdOn": "2024-12-17T09:51:53.114Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Welcome to",
+            "page-subtitle": "Saras Data Suite",
+            "product-name": "Pulse",
+            "name": "Pulse Splash Screen Page",
+            "slug": "pulse-splash-screen-page",
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525"
+          }
+        },
+        {
+          "id": "676149737d4c0cf325a64bce",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-17T11:53:14.312Z",
+          "createdOn": "2024-12-17T09:50:43.498Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Welcome to",
+            "page-subtitle": "Saras Data Suite",
+            "product-name": "Saras",
+            "name": "Saras Splash Screen Page",
+            "slug": "saras-splash-screen-page",
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525"
           }
         }
       ],
