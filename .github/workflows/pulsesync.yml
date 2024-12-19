@@ -1,4 +1,4 @@
-name: Sync Webflow to GitHub
+name: Pulse webflow data sync with Github
 
 on:
   schedule:

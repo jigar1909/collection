@@ -1,4 +1,4 @@
-name: Sync Webflow to GitHub
+name: Global App webflow data sync with Github
 
 on:
   schedule:
