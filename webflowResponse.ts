@@ -845,7 +845,7 @@ export const webflowResponse = [
                 "id": "6750538b1b238dc140f63c04",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:19:10.093Z",
+                "lastUpdated": "2024-12-18T06:01:29.056Z",
                 "createdOn": "2024-12-04T13:05:15.911Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -901,14 +901,14 @@ export const webflowResponse = [
                 "id": "675044481da846992ea44f70",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:17:01.180Z",
+                "lastUpdated": "2024-12-18T06:10:04.253Z",
                 "createdOn": "2024-12-04T12:00:08.936Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
                   "card-type-internal-identifier": "0b331caea787bf6fc37c3346ce88f898",
                   "card-title": "Daton",
-                  "card-description": "Move your data from 150+ sources and transform into analytics-ready tables",
+                  "card-description": "Move your data from 200+ sources and transform into analytics-ready tables",
                   "name": "Globalsignup_daton_product_card",
                   "slug": "globalsignup-daton-product-card",
                   "card-logo": [
@@ -927,14 +927,14 @@ export const webflowResponse = [
                 "id": "67504e2ff1934367531fdbf0",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:17:10.152Z",
+                "lastUpdated": "2024-12-18T06:30:26.293Z",
                 "createdOn": "2024-12-04T12:42:23.281Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
                   "card-type-internal-identifier": "0b331caea787bf6fc37c3346ce88f898",
-                  "card-title": "Daton Pulse",
-                  "card-description": "Power Your Decisions with Advanced Analytics",
+                  "card-title": "Pulse",
+                  "card-description": "All-in-one dashboards to visualize, analyze, and optimize business performance",
                   "name": "Globalsignup_pulse_product_card",
                   "card-logo": [
                     {
