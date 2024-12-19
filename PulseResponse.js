@@ -6,7 +6,7 @@ dotenv.config();
 
 const GITHUB_OWNER = 'jigar1909';
 const GITHUB_REPO = 'collection';
-const FILE_PATH = 'webflowResponse.ts';
+const FILE_PATH = 'pulsewebflowResponse.ts';
 const GLOBAL_COLLECTION_ID = '67288449c46837a60804f938';
 
 const webflowCardType = {
@@ -134,7 +134,6 @@ async function syncWebflowToGithub() {
     try {
         const mainCollectionItems = await webflowApi.fetchMainCollectionItems();
         const pulseItem = mainCollectionItems.filter(item => item.fieldData.name === "Pulse");
-        console.log("pulseItem",pulseItem);
         const finalCollectionItems = await referenceCollectionItems(pulseItem, webflowApi);
         await githubApi.updateFile(finalCollectionItems);
     } catch (error) {

@@ -8,7 +8,6 @@ const GITHUB_OWNER = 'jigar1909';
 const GITHUB_REPO = 'collection';
 const FILE_PATH = 'webflowResponse.ts';
 const GLOBAL_COLLECTION_ID = '67288449c46837a60804f938';
-
 const webflowCardType = {
     "e2b1708271f9fab690edf9972ba40c79": 'Plain Card',
     "5c476a199d1ccba7629b9c992c80af7c": 'Signup Card',
@@ -16,6 +15,11 @@ const webflowCardType = {
     "0b331caea787bf6fc37c3346ce88f898": 'With Primary link only',
 }
 
+const webflowProductName ={
+    "6815bac69bbb40a9647e13d0f73b64f8": "Saras",
+    "45e47a3dbd00061d0afdbe30f76cf6b9": "Pulse",
+    "5abf557a175ba8f8c7cd98d270923bb6": "Daton"
+}
 class WebflowApi {
     constructor() {
         this.api = axios.create({
@@ -99,13 +103,18 @@ async function referenceCollectionItems(items, webflowApi) {
                         productFieldData['linked-card']
                     );
                     for (let card of linkedCards) {
-                        if (card.fieldData['card-type-internal-identifier']) {
-                            try {
+                        try {
+                            if (card.fieldData['card-type-internal-identifier']) {
                                 const cardTypeId = card.fieldData['card-type-internal-identifier'];
                                 card.fieldData['card-type'] = webflowCardType[cardTypeId] || cardTypeId;
-                            } catch (err) {
-                                console.log("Error fetching card type data:", err);
                             }
+                            
+                            if (card.fieldData['product-name']) {
+                                const productNameId = card.fieldData['product-name'];
+                                card.fieldData['product-name'] = webflowProductName[productNameId] || productNameId;
+                            }
+                        } catch (err) {
+                            console.log("Error mapping card data:", err);
                         }
                     }
                     productFieldData['linked-card'] = linkedCards;
@@ -135,6 +144,8 @@ async function syncWebflowToGithub() {
         const mainCollectionItems = await webflowApi.fetchMainCollectionItems();
         const sarasItem = mainCollectionItems.filter(item => item.fieldData.name === "Saras");
         const finalCollectionItems = await referenceCollectionItems(sarasItem, webflowApi);
+        console.log("finalCollectionItems", finalCollectionItems);
+
         await githubApi.updateFile(finalCollectionItems);
     } catch (error) {
         console.error('Error syncing Webflow to GitHub:', error);
