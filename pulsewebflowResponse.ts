@@ -168,7 +168,7 @@ export const webflowResponse = [
           "id": "67582a08014f44bfd7225e8f",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-10T11:46:29.121Z",
+          "lastUpdated": "2024-12-20T10:26:48.782Z",
           "createdOn": "2024-12-10T11:46:16.467Z",
           "isArchived": false,
           "isDraft": false,
@@ -177,7 +177,8 @@ export const webflowResponse = [
             "page-subtitle-2-optional": "Brand name will be used consistently throughout Pulse; please enter a name that is most appropriate",
             "product-name": "Pulse",
             "name": "Pulse_brand_selection_page",
-            "slug": "pulse-onboarding-brand-selection-page"
+            "slug": "pulse-onboarding-brand-selection-page",
+            "linked-client": []
           }
         },
         {
@@ -201,14 +202,15 @@ export const webflowResponse = [
           "id": "67582cc3a114e668a0542188",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-10T11:57:55.123Z",
+          "lastUpdated": "2024-12-20T10:34:19.755Z",
           "createdOn": "2024-12-10T11:57:55.123Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "product-name": "Pulse",
             "name": "Pulse_select_preference_page",
-            "slug": "pulse-select-preference-page"
+            "slug": "pulse-select-preference-page",
+            "linked-client": []
           }
         },
         {
