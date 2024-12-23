@@ -251,13 +251,13 @@ export const webflowResponse = [
           "id": "67654817adca9f4f0f595ce7",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-20T10:34:30.697Z",
+          "lastUpdated": "2024-12-23T09:28:22.276Z",
           "createdOn": "2024-12-20T10:33:59.616Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "product-name": "Pulse",
-            "name": "Pulse_orgnization_type_page",
+            "name": "Pulse_organization_type_page",
             "linked-client": [
               {
                 "id": "67651124a666d09a5c46b0de",
@@ -404,7 +404,7 @@ export const webflowResponse = [
                 }
               }
             ],
-            "slug": "pulse-orgnization-type-page"
+            "slug": "pulse-organization-type-page"
           }
         }
       ],
