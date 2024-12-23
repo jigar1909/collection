@@ -251,7 +251,7 @@ export const webflowResponse = [
           "id": "67654817adca9f4f0f595ce7",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-23T09:28:22.276Z",
+          "lastUpdated": "2024-12-23T09:37:18.367Z",
           "createdOn": "2024-12-20T10:33:59.616Z",
           "isArchived": false,
           "isDraft": false,
@@ -404,7 +404,8 @@ export const webflowResponse = [
                 }
               }
             ],
-            "slug": "pulse-organization-type-page"
+            "slug": "pulse-organization-type-page",
+            "page-subtitle-2-optional": "Pulse is designed for..."
           }
         }
       ],
