@@ -142,7 +142,7 @@ export const webflowResponse = [
                 "id": "67288eaddc07c20fdc1fbc82",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "lastUpdated": "2024-12-24T10:48:08.942Z",
                 "createdOn": "2024-11-04T09:06:53.216Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -153,14 +153,16 @@ export const webflowResponse = [
                     "fileId": "67288ea1ee114596f1de8341",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps"
                 }
               },
               {
                 "id": "673488cab6b06bb03c5df05d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "lastUpdated": "2024-12-24T10:47:53.619Z",
                 "createdOn": "2024-11-13T11:08:58.969Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -172,32 +174,35 @@ export const webflowResponse = [
                     "alt": null
                   },
                   "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad"
                 }
               },
               {
                 "id": "67288e7fafbed21b426a666d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "lastUpdated": "2024-12-24T10:46:26.965Z",
                 "createdOn": "2024-11-04T09:06:07.075Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Pyle",
-                  "slug": "pyle",
+                  "name": "Weezie",
+                  "slug": "weezie",
                   "client-logo": {
-                    "fileId": "67288e784a4f53e7ce9511cc",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "fileId": "676a90fde0a57746f535fffa",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90fde0a57746f535fffa_Weezie.svg",
                     "alt": null
-                  }
+                  },
+                  "card-title": "Weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
                 }
               },
               {
                 "id": "67288e912dd4b564ae70247d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "lastUpdated": "2024-12-24T10:48:24.137Z",
                 "createdOn": "2024-11-04T09:06:25.421Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -208,20 +213,29 @@ export const webflowResponse = [
                     "fileId": "67288e8e6245822b4ec5ac04",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara"
                 }
               },
               {
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "lastUpdated": "2024-12-24T10:45:41.415Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sparkel",
-                  "slug": "sparkel"
+                  "name": "KOS",
+                  "slug": "kos",
+                  "card-title": "KOS",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "client-logo": {
+                    "fileId": "676a90cc988c07ae30f3d42f",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "alt": null
+                  }
                 }
               }
             ]
@@ -357,7 +371,7 @@ export const webflowResponse = [
                 "id": "67288eaddc07c20fdc1fbc82",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "lastUpdated": "2024-12-24T10:48:08.942Z",
                 "createdOn": "2024-11-04T09:06:53.216Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -368,14 +382,16 @@ export const webflowResponse = [
                     "fileId": "67288ea1ee114596f1de8341",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps"
                 }
               },
               {
                 "id": "673488cab6b06bb03c5df05d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "lastUpdated": "2024-12-24T10:47:53.619Z",
                 "createdOn": "2024-11-13T11:08:58.969Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -387,32 +403,35 @@ export const webflowResponse = [
                     "alt": null
                   },
                   "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad"
                 }
               },
               {
                 "id": "67288e7fafbed21b426a666d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "lastUpdated": "2024-12-24T10:46:26.965Z",
                 "createdOn": "2024-11-04T09:06:07.075Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Pyle",
-                  "slug": "pyle",
+                  "name": "Weezie",
+                  "slug": "weezie",
                   "client-logo": {
-                    "fileId": "67288e784a4f53e7ce9511cc",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "fileId": "676a90fde0a57746f535fffa",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90fde0a57746f535fffa_Weezie.svg",
                     "alt": null
-                  }
+                  },
+                  "card-title": "Weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
                 }
               },
               {
                 "id": "67288e912dd4b564ae70247d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "lastUpdated": "2024-12-24T10:48:24.137Z",
                 "createdOn": "2024-11-04T09:06:25.421Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -423,20 +442,29 @@ export const webflowResponse = [
                     "fileId": "67288e8e6245822b4ec5ac04",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara"
                 }
               },
               {
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "lastUpdated": "2024-12-24T10:45:41.415Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sparkel",
-                  "slug": "sparkel"
+                  "name": "KOS",
+                  "slug": "kos",
+                  "card-title": "KOS",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "client-logo": {
+                    "fileId": "676a90cc988c07ae30f3d42f",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "alt": null
+                  }
                 }
               }
             ],
@@ -580,7 +608,7 @@ export const webflowResponse = [
                 "id": "67288eaddc07c20fdc1fbc82",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "lastUpdated": "2024-12-24T10:48:08.942Z",
                 "createdOn": "2024-11-04T09:06:53.216Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -591,14 +619,16 @@ export const webflowResponse = [
                     "fileId": "67288ea1ee114596f1de8341",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps"
                 }
               },
               {
                 "id": "673488cab6b06bb03c5df05d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "lastUpdated": "2024-12-24T10:47:53.619Z",
                 "createdOn": "2024-11-13T11:08:58.969Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -610,32 +640,35 @@ export const webflowResponse = [
                     "alt": null
                   },
                   "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad"
                 }
               },
               {
                 "id": "67288e7fafbed21b426a666d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "lastUpdated": "2024-12-24T10:46:26.965Z",
                 "createdOn": "2024-11-04T09:06:07.075Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Pyle",
-                  "slug": "pyle",
+                  "name": "Weezie",
+                  "slug": "weezie",
                   "client-logo": {
-                    "fileId": "67288e784a4f53e7ce9511cc",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "fileId": "676a90fde0a57746f535fffa",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90fde0a57746f535fffa_Weezie.svg",
                     "alt": null
-                  }
+                  },
+                  "card-title": "Weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
                 }
               },
               {
                 "id": "67288e912dd4b564ae70247d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "lastUpdated": "2024-12-24T10:48:24.137Z",
                 "createdOn": "2024-11-04T09:06:25.421Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -646,20 +679,29 @@ export const webflowResponse = [
                     "fileId": "67288e8e6245822b4ec5ac04",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara"
                 }
               },
               {
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "lastUpdated": "2024-12-24T10:45:41.415Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sparkel",
-                  "slug": "sparkel"
+                  "name": "KOS",
+                  "slug": "kos",
+                  "card-title": "KOS",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "client-logo": {
+                    "fileId": "676a90cc988c07ae30f3d42f",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "alt": null
+                  }
                 }
               }
             ]
@@ -789,7 +831,7 @@ export const webflowResponse = [
                 "id": "675053127d0305f63961fde7",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:17:50.703Z",
+                "lastUpdated": "2024-12-24T05:21:43.596Z",
                 "createdOn": "2024-12-04T13:03:14.902Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -802,8 +844,8 @@ export const webflowResponse = [
                   "card-description": "Step-by-Step Guide to Getting Started with Pulse ",
                   "card-logo": [
                     {
-                      "fileId": "6750530ad78833d7a1deb767",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6750530ad78833d7a1deb767_consolidationPulseGreen.svg",
+                      "fileId": "676a44e3e7b86792139a3cc0",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a44e3e7b86792139a3cc0_ConsolidationPulse.svg",
                       "alt": null
                     }
                   ],
@@ -817,7 +859,7 @@ export const webflowResponse = [
                 "id": "6750534ccb86e83b3add2b18",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:18:21.746Z",
+                "lastUpdated": "2024-12-24T05:21:27.705Z",
                 "createdOn": "2024-12-04T13:04:12.406Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -829,8 +871,8 @@ export const webflowResponse = [
                   "card-description": "Overview of Key Pages in Pulse ",
                   "card-logo": [
                     {
-                      "fileId": "67505343fd25999b32acea94",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67505343fd25999b32acea94_AnalysisPulseGreen.svg",
+                      "fileId": "676a44d2b0a1f342a82862b2",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a44d2b0a1f342a82862b2_AnalysisPulse.svg",
                       "alt": null
                     }
                   ],
@@ -845,7 +887,7 @@ export const webflowResponse = [
                 "id": "6750538b1b238dc140f63c04",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-18T06:01:29.056Z",
+                "lastUpdated": "2024-12-24T05:21:10.766Z",
                 "createdOn": "2024-12-04T13:05:15.911Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -858,8 +900,8 @@ export const webflowResponse = [
                   "card-description": "How to Get Started with Pulse's Free Trial ",
                   "card-logo": [
                     {
-                      "fileId": "6750537f7a1a7e2fc20e11c0",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6750537f7a1a7e2fc20e11c0_ForecastingPulseGreen.svg",
+                      "fileId": "676a44c1edeeceaba150bf90",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a44c1edeeceaba150bf90_ForecastingPulse.svg",
                       "alt": null
                     }
                   ],
@@ -873,7 +915,7 @@ export const webflowResponse = [
                 "id": "675053aeffe37a8593655f3c",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:19:37.466Z",
+                "lastUpdated": "2024-12-24T05:22:05.379Z",
                 "createdOn": "2024-12-04T13:05:50.122Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -887,8 +929,8 @@ export const webflowResponse = [
                   "slug": "pulse-key-feature-card4",
                   "card-logo": [
                     {
-                      "fileId": "6750537f7a1a7e2fc20e11c0",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6750537f7a1a7e2fc20e11c0_ForecastingPulseGreen.svg",
+                      "fileId": "676a44c1edeeceaba150bf90",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a44c1edeeceaba150bf90_ForecastingPulse.svg",
                       "alt": null
                     }
                   ],
