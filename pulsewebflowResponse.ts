@@ -14,7 +14,7 @@ export const webflowResponse = [
           "id": "6756cd39a5e2779fca274f83",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-18T10:26:35.103Z",
+          "lastUpdated": "2024-12-24T11:37:45.960Z",
           "createdOn": "2024-12-09T10:58:01.792Z",
           "isArchived": false,
           "isDraft": false,
@@ -29,7 +29,7 @@ export const webflowResponse = [
                 "id": "67288eaddc07c20fdc1fbc82",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "lastUpdated": "2024-12-24T10:48:08.942Z",
                 "createdOn": "2024-11-04T09:06:53.216Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -40,14 +40,16 @@ export const webflowResponse = [
                     "fileId": "67288ea1ee114596f1de8341",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps"
                 }
               },
               {
                 "id": "673488cab6b06bb03c5df05d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "lastUpdated": "2024-12-24T10:47:53.619Z",
                 "createdOn": "2024-11-13T11:08:58.969Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -59,32 +61,35 @@ export const webflowResponse = [
                     "alt": null
                   },
                   "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad"
                 }
               },
               {
                 "id": "67288e7fafbed21b426a666d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "lastUpdated": "2024-12-24T10:46:26.965Z",
                 "createdOn": "2024-11-04T09:06:07.075Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Pyle",
-                  "slug": "pyle",
+                  "name": "Weezie",
+                  "slug": "weezie",
                   "client-logo": {
-                    "fileId": "67288e784a4f53e7ce9511cc",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "fileId": "676a90fde0a57746f535fffa",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90fde0a57746f535fffa_Weezie.svg",
                     "alt": null
-                  }
+                  },
+                  "card-title": "Weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
                 }
               },
               {
                 "id": "67288e912dd4b564ae70247d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "lastUpdated": "2024-12-24T10:48:24.137Z",
                 "createdOn": "2024-11-04T09:06:25.421Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -95,48 +100,143 @@ export const webflowResponse = [
                     "fileId": "67288e8e6245822b4ec5ac04",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
                     "alt": null
-                  }
+                  },
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara"
                 }
               },
               {
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "lastUpdated": "2024-12-24T10:45:41.415Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sparkel",
-                  "slug": "sparkel"
+                  "name": "KOS",
+                  "slug": "kos",
+                  "card-title": "KOS",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "client-logo": {
+                    "fileId": "676a90cc988c07ae30f3d42f",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "alt": null
+                  }
                 }
               },
               {
-                "id": "67486426602494c59017b1fd",
+                "id": "676a9c87f26fb5bc73af7701",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-11-28T12:39:12.194Z",
-                "createdOn": "2024-11-28T12:37:58.526Z",
+                "lastUpdated": "2024-12-24T11:35:38.825Z",
+                "createdOn": "2024-12-24T11:35:35.454Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Athletic Greens",
+                  "name": "Athletic Greens",
+                  "slug": "athletic-greens",
+                  "client-logo": {
+                    "fileId": "676a9c83e0a57746f5410f5d",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a9c83e0a57746f5410f5d_AG.svg",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "676a91d1899b342dacc6e1c0",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-24T10:50:32.390Z",
+                "createdOn": "2024-12-24T10:49:53.277Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Earth Breeze",
+                  "name": "Earth Breeze",
+                  "client-logo": {
+                    "fileId": "676a91cdb1b3f7be7a5f2d65",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a91cdb1b3f7be7a5f2d65_Earth%20Breeze.svg",
+                    "alt": null
+                  },
+                  "slug": "earth-breeze"
+                }
+              },
+              {
+                "id": "676a9c54454544f827b9f2b3",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-24T11:34:47.953Z",
+                "createdOn": "2024-12-24T11:34:44.853Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Tru Niagen",
+                  "name": "Tru Niagen",
+                  "client-logo": {
+                    "fileId": "676a9c4fe1d52eb97623ac1a",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a9c4fe1d52eb97623ac1a_Tru%20Niagen.svg",
+                    "alt": null
+                  },
+                  "slug": "tru-niagen"
+                }
+              },
+              {
+                "id": "676a9c14b2605216c1614cf1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-24T11:33:44.517Z",
+                "createdOn": "2024-12-24T11:33:40.894Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Momentous",
+                  "name": "Momentous",
+                  "client-logo": {
+                    "fileId": "676a926a93ea3cd85a1a6f60",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a926a93ea3cd85a1a6f60_Momentous.svg",
+                    "alt": null
+                  },
+                  "slug": "momentous"
+                }
+              },
+              {
+                "id": "67695b3de4d546944a120613",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-24T10:51:52.431Z",
+                "createdOn": "2024-12-23T12:44:45.685Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
                   "card-type": "badd89a958e3efb26be90c8a5ead8489",
-                  "name": "Upscalio_clients_testimonials",
+                  "card-title": "Alex Faherty ",
                   "card-subtitle": "CEO",
-                  "card-title": "Jason Panzer",
-                  "card-description": "\"Saras Analytics provides reliable, data-driven\ninsights that empower us to make informed\ndecisions with confidence.\"",
-                  "client-logo": {
-                    "fileId": "6748642387b1194537192cbf",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6748642387b1194537192cbf_LOGO%20CLIENT.png",
-                    "alt": null
-                  },
-                  "slug": "pulse-onboarding-clients-testimonials",
-                  "client-image": {
-                    "fileId": "6744705950d571de836ec7e5",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6744705950d571de836ec7e5_6009864.png",
-                    "alt": null
-                  },
-                  "page-name-identifier": "pulse_onboarding_clients_testimonials"
+                  "card-description": "Saras's customer 360 provided us Advanced Customer Cohorts with CLTV analysis across segments and channels, helping us target the right customers through personalised communication. The forecasting and BI Dashboards helped us measure the right data. ",
+                  "name": "Faherty",
+                  "slug": "faherty-testimonial"
+                }
+              },
+              {
+                "id": "67695bf1f2abd948e4c0f480",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-24T10:50:59.014Z",
+                "createdOn": "2024-12-23T12:47:45.360Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "badd89a958e3efb26be90c8a5ead8489",
+                  "card-title": "Lindsey Johnson",
+                  "card-subtitle": "CEO",
+                  "card-description": "Saras team is a jack of all trades and an extension of our growth team. Beyond helping us with customized data tracking and dashboards, they guided us a lot. We can't recommend them enough!",
+                  "name": "Weezie",
+                  "slug": "weezie-testimonial"
                 }
               }
             ],
