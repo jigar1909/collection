@@ -777,7 +777,7 @@ export const webflowResponse = [
                 "id": "675040b7d8267e108a880e4d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:16:01.269Z",
+                "lastUpdated": "2024-12-26T08:32:01.074Z",
                 "createdOn": "2024-12-04T11:44:55.374Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -785,12 +785,12 @@ export const webflowResponse = [
                   "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
                   "card-chip": "Daton",
                   "name": "product_listing_about_daton_card3",
-                  "card-title": "Start your trial! ",
-                  "card-description": "How to Get Started with Daton's Free Trial ",
+                  "card-title": "Free Trial!",
+                  "card-description": "Learn about our free trial and get an overview of the subscription plans",
                   "card-logo": [
                     {
-                      "fileId": "67502d3cf01754f4af7b461f",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502d3cf01754f4af7b461f_Forecasting.svg",
+                      "fileId": "676d147ce4da924f77345314",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676d147ce4da924f77345314_datonForecasting.svg",
                       "alt": null
                     }
                   ],
@@ -887,7 +887,7 @@ export const webflowResponse = [
                 "id": "6750538b1b238dc140f63c04",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T05:21:10.766Z",
+                "lastUpdated": "2024-12-26T08:01:49.391Z",
                 "createdOn": "2024-12-04T13:05:15.911Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -896,8 +896,8 @@ export const webflowResponse = [
                   "card-chip": "Pulse",
                   "name": "product_listing_about_pulse_card3",
                   "page-name-internal-identifier": "saras global home page",
-                  "card-title": "Start your trial! ",
-                  "card-description": "How to Get Started with Pulse's Free Trial ",
+                  "card-title": "Free Trial!",
+                  "card-description": "Learn about our free trial and get an overview of the subscription plans",
                   "card-logo": [
                     {
                       "fileId": "676a44c1edeeceaba150bf90",
@@ -943,7 +943,7 @@ export const webflowResponse = [
                 "id": "675044481da846992ea44f70",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-18T06:10:04.253Z",
+                "lastUpdated": "2024-12-26T05:55:20.936Z",
                 "createdOn": "2024-12-04T12:00:08.936Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -961,7 +961,7 @@ export const webflowResponse = [
                     }
                   ],
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
-                  "product-name": "Saras",
+                  "product-name": "Daton",
                   "card-type": "With Primary link only"
                 }
               },
@@ -969,7 +969,7 @@ export const webflowResponse = [
                 "id": "67504e2ff1934367531fdbf0",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-18T06:30:26.293Z",
+                "lastUpdated": "2024-12-26T05:55:31.245Z",
                 "createdOn": "2024-12-04T12:42:23.281Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -987,7 +987,7 @@ export const webflowResponse = [
                   ],
                   "slug": "globalsignup-pulse-product-card",
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-walkthrough",
-                  "product-name": "Saras",
+                  "product-name": "Pulse",
                   "card-type": "With Primary link only"
                 }
               }
@@ -1016,13 +1016,13 @@ export const webflowResponse = [
           "id": "676149b9a735d3af9c0a5ba3",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-17T11:52:57.438Z",
+          "lastUpdated": "2024-12-26T06:10:41.926Z",
           "createdOn": "2024-12-17T09:51:53.114Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "page-title": "Welcome to",
-            "page-subtitle": "Saras Data Suite",
+            "page-subtitle": "Pulse",
             "product-name": "Pulse",
             "name": "Pulse Splash Screen Page",
             "slug": "pulse-splash-screen-page",
@@ -1033,13 +1033,13 @@ export const webflowResponse = [
           "id": "676149737d4c0cf325a64bce",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-17T11:53:14.312Z",
+          "lastUpdated": "2024-12-26T06:10:42.428Z",
           "createdOn": "2024-12-17T09:50:43.498Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "page-title": "Welcome to",
-            "page-subtitle": "Saras Data Suite",
+            "page-subtitle": "Saras Data Products",
             "product-name": "Saras",
             "name": "Saras Splash Screen Page",
             "slug": "saras-splash-screen-page",
