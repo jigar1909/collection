@@ -41,7 +41,7 @@ export const webflowResponse = [
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "InnoSupps"
                 }
               },
@@ -61,7 +61,7 @@ export const webflowResponse = [
                     "alt": null
                   },
                   "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "Murad"
                 }
               },
@@ -82,7 +82,7 @@ export const webflowResponse = [
                     "alt": null
                   },
                   "card-title": "Weezie",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "card-type": "Logo Only"
                 }
               },
               {
@@ -101,7 +101,7 @@ export const webflowResponse = [
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "Sakara"
                 }
               },
@@ -117,7 +117,7 @@ export const webflowResponse = [
                   "name": "KOS",
                   "slug": "kos",
                   "card-title": "KOS",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "client-logo": {
                     "fileId": "676e3b26bfce89d3eb6da3bd",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676e3b26bfce89d3eb6da3bd_KOS.svg",
@@ -134,7 +134,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "Athletic Greens",
                   "name": "Athletic Greens",
                   "slug": "athletic-greens",
@@ -154,7 +154,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "Earth Breeze",
                   "name": "Earth Breeze",
                   "client-logo": {
@@ -174,7 +174,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "Tru Niagen",
                   "name": "Tru Niagen",
                   "client-logo": {
@@ -194,7 +194,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-type": "Logo Only",
                   "card-title": "Momentous",
                   "name": "Momentous",
                   "client-logo": {
@@ -214,7 +214,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "badd89a958e3efb26be90c8a5ead8489",
+                  "card-type": "Testimonials",
                   "card-title": "Alex Faherty ",
                   "card-subtitle": "CEO",
                   "card-description": "Saras's customer 360 provided us Advanced Customer Cohorts with CLTV analysis across segments and channels, helping us target the right customers through personalised communication. The forecasting and BI Dashboards helped us measure the right data. ",
@@ -231,7 +231,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "badd89a958e3efb26be90c8a5ead8489",
+                  "card-type": "Testimonials",
                   "card-title": "Lindsey Johnson",
                   "card-subtitle": "CEO",
                   "card-description": "Saras team is a jack of all trades and an extension of our growth team. Beyond helping us with customized data tracking and dashboards, they guided us a lot. We can't recommend them enough!",
@@ -368,7 +368,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "CEO",
                   "card-subtitle": "Identify key revenue drivers, monitor multi-channel performance, and align business goals with data insights.",
                   "name": "CEO",
@@ -384,7 +384,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "CMO/Head of Growth",
                   "card-subtitle": "Pinpoint high-performing campaigns, optimize ad spend, and accelerate growth with unified marketing insights.",
                   "name": "CMO/Head of Growth",
@@ -400,7 +400,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "COO",
                   "card-subtitle": "Monitor out-of-stock rates, inventory age, and supply chain metrics to ensure operational efficiency.",
                   "name": "COO",
@@ -416,7 +416,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "CFO",
                   "card-subtitle": "Evaluate profitability by channel, control platform fees, and improve financial planning with real-time insights.",
                   "name": "CFO",
@@ -432,7 +432,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "Retention Marketers",
                   "card-subtitle": "Track customer behavior, reduce churn, and enhance lifetime value with retention-focused cohort analysis.",
                   "name": "Retention Marketers",
@@ -448,7 +448,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "Data Analyst",
                   "card-subtitle": "Automate reporting processes, uncover insights faster, and empower teams with ready-to-use, actionable dashboards.",
                   "name": "Data Analyst",
@@ -464,7 +464,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "Product Owners",
                   "card-subtitle": "Analyze product sales, optimize pricing strategies, and improve SKU performance across multiple channels.",
                   "name": "Product Owners",
@@ -480,7 +480,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "Partnerships teams",
                   "card-subtitle": "Assess partnership ROI, identify collaboration opportunities, and drive growth through targeted initiatives",
                   "name": "Partnerships teams",
@@ -496,7 +496,7 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type": "d63e518a9dd314cf7f7f2e116b3601fc",
+                  "card-type": "Personas",
                   "card-title": "Acquisition Marketers",
                   "card-subtitle": "Measure campaign ROI in real time, refine targeting strategies, and maximize customer acquisition efficiency.",
                   "name": "Acquisition Marketers",
