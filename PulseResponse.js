@@ -16,6 +16,13 @@ const webflowCardType = {
     "0b331caea787bf6fc37c3346ce88f898": 'With Primary link only',
 }
 
+const cardTypeMapping = {
+    "d63e518a9dd314cf7f7f2e116b3601fc": 'Personas',
+    "badd89a958e3efb26be90c8a5ead8489": 'Testimonials',
+    "e6a054d19d1e29292949ca06e19a29ae": 'Logo Only',
+};
+
+
 class WebflowApi {
     constructor() {
         this.api = axios.create({
@@ -111,11 +118,27 @@ async function referenceCollectionItems(items, webflowApi) {
                     productFieldData['linked-card-2'] = linkedCards;
                 }
 
+                // if (productFieldData['linked-client']) {
+                //     productFieldData['linked-client'] = await webflowApi.fetchReferencedItems(
+                //         '6728863a968984332438637a',
+                //         productFieldData['linked-client']
+                //     );
+                // }
                 if (productFieldData['linked-client']) {
-                    productFieldData['linked-client'] = await webflowApi.fetchReferencedItems(
+                    const linkedClients = await webflowApi.fetchReferencedItems(
                         '6728863a968984332438637a',
                         productFieldData['linked-client']
                     );
+                
+                    // Map card types for linked clients
+                    linkedClients.forEach(client => {
+                        const clientFieldData = client.fieldData;
+                        if (clientFieldData['card-type']) {
+                            clientFieldData['card-type'] = cardTypeMapping[clientFieldData['card-type']] || clientFieldData['card-type'];
+                        }
+                    });
+                
+                    productFieldData['linked-client'] = linkedClients;
                 }
             }
 

@@ -1,452 +1,254 @@
-export const hbFormResponse = {
-  "portalId": 22207066,
-  "form": {
-    "id": "68eca543-afc8-43fc-8956-f2411bb6aa9c",
-    "type": 0,
-    "modules": [
-      {
-        "type": "step",
-        "id": 2545922418712,
-        "modules": [
-          {
-            "type": "row",
-            "id": 2356512724636,
-            "modules": [
+export const webflowResponse = [
+  {
+    "id": "6757c56e3bfe8dc3918ed32e",
+    "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+    "lastPublished": null,
+    "lastUpdated": "2024-12-16T08:56:50.110Z",
+    "createdOn": "2024-12-10T04:37:02.909Z",
+    "isArchived": false,
+    "isDraft": false,
+    "fieldData": {
+      "name": "Pulse",
+      "pulse-onboarding-product-pages": [
+        {
+          "id": "6756cd39a5e2779fca274f83",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-18T10:26:35.103Z",
+          "createdOn": "2024-12-09T10:58:01.792Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "product-name": "Pulse",
+            "name": "Pulse_welcome_page",
+            "page-subtitle-2-optional": "Empowering <b>200+ brands</b> to unlock data-driven growth:",
+            "page-subtitle": "Let's get you set up effortlessly so you can unlock insights tailored to your unique needs.",
+            "page-title": "Welcome to Pulse — <span>One unified platform for all your data needs</span>",
+            "linked-client": [
               {
-                "type": "radioSelect",
-                "id": 2659656317993,
-                "label": "How would you best describe your organization?",
-                "required": true,
-                "propertyReference": "0-2/organization_type",
-                "conditionallyHidden": false,
-                "triggerDependentRulesOnLoad": false,
-                "description": "Select any one to ensure we tailor Pulse to fit your needs",
-                "options": [
-                  {
-                    "label": "We are a Brand",
-                    "value": "We are a Brand",
-                    "selected": false
-                  },
-                  {
-                    "label": "We are an Agency",
-                    "value": "We are an Agency",
-                    "selected": false
+                "id": "67288eaddc07c20fdc1fbc82",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:53.216Z",
+                "createdOn": "2024-11-04T09:06:53.216Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "InnoSupps",
+                  "slug": "innosupps",
+                  "client-logo": {
+                    "fileId": "67288ea1ee114596f1de8341",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
+                    "alt": null
                   }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "row",
-            "id": 2733306787759,
-            "modules": [
-              {
-                "type": "multipleCheckbox",
-                "id": 2059844994760,
-                "label": "Which areas do you want to improve and grow using data insights?",
-                "required": true,
-                "propertyReference": "0-2/onboarding_function_type",
-                "conditionallyHidden": false,
-                "triggerDependentRulesOnLoad": false,
-                "description": "Pulse delivers a single source of truth for the entire business. You can start with any function and expand later",
-                "options": [
-                  {
-                    "label": "Marketing",
-                    "value": "Marketing",
-                    "selected": false
-                  },
-                  {
-                    "label": "Sales",
-                    "value": "Sales",
-                    "selected": false
-                  },
-                  {
-                    "label": "Finance",
-                    "value": "Finance",
-                    "selected": false
-                  },
-                  {
-                    "label": "Operations",
-                    "value": "Operations",
-                    "selected": false
-                  },
-                  {
-                    "label": "Product",
-                    "value": "Product",
-                    "selected": false
-                  },
-                  {
-                    "label": "Customer",
-                    "value": "Customer",
-                    "selected": false
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "navigationRow",
-            "id": 3268290314808,
-            "modules": [
-              {
-                "type": "nextButton",
-                "id": 2840979752517,
-                "text": "Next"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "step",
-        "id": 2615920460734,
-        "modules": [
-          {
-            "type": "row",
-            "id": 2600991341729,
-            "modules": [
-              {
-                "type": "text",
-                "label": "Enter your brand name",
-                "required": false,
-                "propertyReference": "0-2/brand_name",
-                "conditionallyHidden": false,
-                "triggerDependentRulesOnLoad": false,
-                "id": 3024178809605,
-                "description": "If you manage multiple brands, don&#039;t worry—you can add them later",
-                "placeholder": "Brand Name"
-              }
-            ]
-          },
-          {
-            "type": "navigationRow",
-            "id": 1779216985160,
-            "modules": [
-              {
-                "type": "previousButton",
-                "id": 2573815713853,
-                "text": "Previous "
+                }
               },
               {
-                "type": "nextButton",
-                "id": 3007514548329,
-                "text": "                 Next"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "step",
-        "id": 2428394780518,
-        "modules": [
-          {
-            "type": "row",
-            "id": 2391434351723,
-            "modules": [
-              {
-                "type": "radioSelect",
-                "id": 2656801108070,
-                "label": "Select the model that best represent your brand",
-                "required": false,
-                "propertyReference": "0-2/brand_model",
-                "conditionallyHidden": false,
-                "triggerDependentRulesOnLoad": false,
-                "description": "Your Pulse experience will be tailored based on your selections",
-                "options": [
-                  {
-                    "label": "One-time Purchase (OTP)",
-                    "value": "One-time Purchase (OTP)",
-                    "selected": false
+                "id": "673488cab6b06bb03c5df05d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-05T05:46:55.097Z",
+                "createdOn": "2024-11-13T11:08:58.969Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Murad",
+                  "client-logo": {
+                    "fileId": "673488c68039cbdbfbf14436",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673488c68039cbdbfbf14436_Murad.svg",
+                    "alt": null
                   },
-                  {
-                    "label": "Subscription",
-                    "value": "Subscription",
-                    "selected": false
-                  },
-                  {
-                    "label": "Both, Subscription and OTP",
-                    "value": "Both, Subscription and OTP",
-                    "selected": true
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "row",
-            "id": 2938487761908,
-            "modules": [
-              {
-                "type": "multipleCheckbox",
-                "id": 2326038098612,
-                "label": "Select your primary selling channels",
-                "required": false,
-                "propertyReference": "0-2/select_your_selling_channels",
-                "conditionallyHidden": false,
-                "triggerDependentRulesOnLoad": false,
-                "description": "Select the channels where you sell most often so we can tailor insights across your key platforms",
-                "options": [
-                  {
-                    "label": "Marketplace",
-                    "value": "Marketplace",
-                    "selected": false
-                  },
-                  {
-                    "label": "DTC",
-                    "value": "DTC",
-                    "selected": false
-                  },
-                  {
-                    "label": "Retail",
-                    "value": "Retail",
-                    "selected": false
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "navigationRow",
-            "id": 2392876686458,
-            "modules": [
-              {
-                "type": "previousButton",
-                "id": 2740284700666,
-                "text": "  Previous"
+                  "slug": "murad",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                }
               },
               {
-                "type": "nextButton",
-                "id": 2497986509565,
-                "text": "Next"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "step",
-        "id": 3201910948903,
-        "modules": [
-          {
-            "type": "row",
-            "id": 3337410373064,
-            "modules": [
-              {
-                "type": "multipleCheckbox",
-                "id": 3328091950480,
-                "label": "Select the features that best align with your interests",
-                "required": false,
-                "propertyReference": "0-2/features_interests",
-                "conditionallyHidden": false,
-                "triggerDependentRulesOnLoad": false,
-                "description": "Based on your selected features and preferences, we&#039;ll recommend the most relevant dashboards to support your goals",
-                "options": [
-                  {
-                    "label": "Sales",
-                    "value": "Sales",
-                    "selected": false
-                  },
-                  {
-                    "label": "Marketing",
-                    "value": "Marketing",
-                    "selected": false
-                  },
-                  {
-                    "label": "Customers",
-                    "value": "Customers",
-                    "selected": false
-                  },
-                  {
-                    "label": "Attribution",
-                    "value": "Attribution",
-                    "selected": false
-                  },
-                  {
-                    "label": "Finance",
-                    "value": "Finance",
-                    "selected": false
-                  },
-                  {
-                    "label": "Product",
-                    "value": "Product",
-                    "selected": false
+                "id": "67288e7fafbed21b426a666d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:07.075Z",
+                "createdOn": "2024-11-04T09:06:07.075Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Pyle",
+                  "slug": "pyle",
+                  "client-logo": {
+                    "fileId": "67288e784a4f53e7ce9511cc",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e784a4f53e7ce9511cc_pyle.svg",
+                    "alt": null
                   }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "row",
-            "id": 3342904208584,
-            "modules": [
-              {
-                "type": "heading",
-                "id": 2329163445905,
-                "text": "[ 'Optimize marketing campaigns for better ROI', 'Compare marketing performance across all channels', 'Measure customer acquisition cost by campaign and channel' ],[ 'Optimize marketing campaigns for better ROI', 'Compare marketing performance across all channels', 'Measure customer acquisition cost by campaign and channel' ],[ 'Optimize marketing campaigns for better ROI', 'Compare marketing performance across all channels', 'Measure customer acquisition cost by campaign and channel' ], [ 'Optimize marketing campaigns for better ROI', 'Compare marketing performance across all channels', 'Measure customer acquisition cost by campaign and channel' ], [ 'Optimize marketing campaigns for better ROI', 'Compare marketing performance across all channels', 'Measure customer acquisition cost by campaign and channel' ], [ 'Optimize marketing campaigns for better ROI', 'Compare marketing performance across all channels', 'Measure customer acquisition cost by campaign and channel' ]",
-                "level": 6
-              }
-            ]
-          },
-          {
-            "type": "navigationRow",
-            "id": 2878515653123,
-            "modules": [
-              {
-                "type": "previousButton",
-                "id": 1893370231509,
-                "text": "Previous"
+                }
               },
               {
-                "type": "submitButton",
-                "id": 8,
-                "text": "Submit"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "logicRules": {},
-    "lastUpdatedAt": 1734331997908
-  },
-  "postSubmit": {
-    "modules": [
-      {
-        "type": "step",
-        "id": 2781,
-        "modules": [
-          {
-            "type": "row",
-            "id": 2780,
-            "modules": [
+                "id": "67288e912dd4b564ae70247d",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-04T09:06:25.421Z",
+                "createdOn": "2024-11-04T09:06:25.421Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sakara",
+                  "slug": "sakara",
+                  "client-logo": {
+                    "fileId": "67288e8e6245822b4ec5ac04",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
+                    "alt": null
+                  }
+                }
+              },
               {
-                "type": "richText",
-                "id": 9,
-                "html": "<p style=\"font-size: 30px; line-height: 125%;\"><strong>Form submitted<br></strong></p>\n<p style=\"font-size: 16px; line-height: 125%;\">&nbsp;</p>\n<p style=\"font-size: 16px; line-height: 125%;\">&nbsp;</p>"
+                "id": "673487d081e43d472ddb30b1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-13T11:08:24.978Z",
+                "createdOn": "2024-11-13T11:04:48.580Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "name": "Sparkel",
+                  "slug": "sparkel"
+                }
+              },
+              {
+                "id": "67486426602494c59017b1fd",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-11-28T12:39:12.194Z",
+                "createdOn": "2024-11-28T12:37:58.526Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "badd89a958e3efb26be90c8a5ead8489",
+                  "name": "Upscalio_clients_testimonials",
+                  "card-subtitle": "CEO",
+                  "card-title": "Jason Panzer",
+                  "card-description": "\"Saras Analytics provides reliable, data-driven\ninsights that empower us to make informed\ndecisions with confidence.\"",
+                  "client-logo": {
+                    "fileId": "6748642387b1194537192cbf",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6748642387b1194537192cbf_LOGO%20CLIENT.png",
+                    "alt": null
+                  },
+                  "slug": "pulse-onboarding-clients-testimonials",
+                  "client-image": {
+                    "fileId": "6744705950d571de836ec7e5",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6744705950d571de836ec7e5_6009864.png",
+                    "alt": null
+                  },
+                  "page-name-identifier": "pulse_onboarding_clients_testimonials"
+                }
               }
-            ]
+            ],
+            "slug": "pulse-welcome-page",
+            "linked-card-2": [
+              {
+                "id": "675699d21319a327d4c8c9aa",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-17T10:34:12.539Z",
+                "createdOn": "2024-12-09T07:18:42.249Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-title": "Customise your Experience in a Few Simple Steps",
+                  "card-pointers": "<p id=\"\">Tell us about your brand and business goals,Choose the features that best suit your needs,Connect your preferred data sources,</p><p id=\"\">‍</p>",
+                  "page-name-internal-identifier": "Pulse Onboarding Welcome Page",
+                  "name": "Pulse_Onboarding_ WelcomePage_GuideCard",
+                  "slug": "pulse-onboarding-welcomepage-guidecard",
+                  "card-type": "Signup Card"
+                }
+              }
+            ],
+            "page-note": "To speed up your onboarding, please have your required data source credentials handy"
           }
-        ]
-      }
-    ]
-  },
-  "settings": {
-    "enabledLiveValidation": true,
-    "locale": "EN",
-    "shortenForm": false
-  },
-  "style": {
-    "richText": {
-      "fontFamily": "Helvetica",
-      "fontSize": "1.0em",
-      "color": "rgba(4,57,80,1.0)"
-    },
-    "inputField": {
-      "description": {
-        "color": "rgba(81,99,131,0.89)",
-        "fontFamily": "Helvetica"
-      },
-      "error": {
-        "color": "rgba(229,21,32,1.0)",
-        "fontFamily": "Helvetica"
-      },
-      "input": {
-        "fontFamily": "helvetica",
-        "backgroundColor": "rgba(245,248,250,1.0)",
-        "borderColor": "rgba(3,93,106,1.0)",
-        "borderTopLeftRadius": "3.0px",
-        "borderTopRightRadius": "3.0px",
-        "borderBottomRightRadius": "3.0px",
-        "borderBottomLeftRadius": "3.0px",
-        "borderStyle": "solid",
-        "borderTopWidth": "1.0px",
-        "borderBottomWidth": "1.0px",
-        "borderLeftWidth": "1.0px",
-        "borderRightWidth": "1.0px",
-        "paddingTop": "12.0px",
-        "paddingBottom": "12.0px",
-        "paddingLeft": "10.0px",
-        "paddingRight": "10.0px"
-      },
-      "label": {
-        "color": "rgba(37,51,66,1.0)",
-        "fontFamily": "Helvetica",
-        "fontSize": "1.0em"
-      },
-      "placeholder": {
-        "color": "rgba(81,99,131,0.64)",
-        "fontFamily": "Helvetica"
-      }
-    },
-    "button": {
-      "backgroundColor": "rgba(44,62,99,1.0)",
-      "boxShadow": "0.0px 2.0px 1.0px 0.0px rgba(5,43,74,1.0)",
-      "color": "rgba(255,255,255,1.0)",
-      "fontFamily": "helvetica",
-      "fontSize": "1.0em",
-      "borderTopLeftRadius": "6.0px",
-      "borderTopRightRadius": "6.0px",
-      "borderBottomRightRadius": "6.0px",
-      "borderBottomLeftRadius": "6.0px",
-      "paddingTop": "12.0px",
-      "paddingBottom": "12.0px",
-      "paddingLeft": "36.0px",
-      "paddingRight": "36.0px"
-    },
-    "background": {
-      "borderColor": "rgba(255,255,255,1.0)",
-      "borderStyle": "none",
-      "borderBottomWidth": "1.0px",
-      "borderTopWidth": "1.0px",
-      "borderLeftWidth": "1.0px",
-      "borderRightWidth": "1.0px",
-      "borderTopLeftRadius": "0.0px",
-      "borderTopRightRadius": "0.0px",
-      "borderBottomRightRadius": "0.0px",
-      "borderBottomLeftRadius": "0.0px"
-    },
-    "heading": {
-      "fontFamily": "Helvetica",
-      "color": "rgba(4,57,80,1.0)"
-    },
-    "progressBar": {
-      "text": {
-        "fontFamily": "Helvetica",
-        "color": "rgba(37,51,66,1.0)",
-        "fontSize": "1.0em"
-      },
-      "progressLine": {
-        "backgroundColor": "rgba(44,62,99,1.0)"
-      },
-      "trackLine": {
-        "backgroundColor": "rgba(217,217,217,1.0)"
-      }
+        },
+        {
+          "id": "67582a08014f44bfd7225e8f",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-20T10:26:48.782Z",
+          "createdOn": "2024-12-10T11:46:16.467Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Charting Your Journey to Value Generation",
+            "page-subtitle-2-optional": "Brand name will be used consistently throughout Pulse; please enter a name that is most appropriate",
+            "product-name": "Pulse",
+            "name": "Pulse_brand_selection_page",
+            "slug": "pulse-onboarding-brand-selection-page",
+            "linked-client": []
+          }
+        },
+        {
+          "id": "67582a885dd6ca0dccddc463",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-19T14:04:37.200Z",
+          "createdOn": "2024-12-10T11:48:24.783Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Choose the features that you would like to activate",
+            "page-subtitle": "Based on your selected features and preferences, we'll recommend the most relevant dashboards to support your goals",
+            "page-subtitle-2-optional": "Having trouble deciding which features are right for you? Reach out to us!",
+            "product-name": "Pulse",
+            "name": "Pulse_dashboard_page",
+            "slug": "pulse-usecases-dashboard-page"
+          }
+        },
+        {
+          "id": "67582cc3a114e668a0542188",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-20T10:34:19.755Z",
+          "createdOn": "2024-12-10T11:57:55.123Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "product-name": "Pulse",
+            "name": "Pulse_select_preference_page",
+            "slug": "pulse-select-preference-page",
+            "linked-client": []
+          }
+        },
+        {
+          "id": "67582af83c363ebe793f4b03",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-10T11:50:16.823Z",
+          "createdOn": "2024-12-10T11:50:16.823Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Almost there, choose the sources that you would like to connect",
+            "page-subtitle": "Connecting all the relevant sources may take some time, but the valuable insights you'll gain will be well worth it :)",
+            "page-subtitle-2-optional": "Having trouble setting up integrations? Contact us for assistance",
+            "product-name": "Pulse",
+            "name": "Pulse_source_page",
+            "slug": "pulse-source-page"
+          }
+        },
+        {
+          "id": "67582a4a1083c8fe09a3251c",
+          "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+          "lastPublished": null,
+          "lastUpdated": "2024-12-19T14:03:57.755Z",
+          "createdOn": "2024-12-10T11:47:22.894Z",
+          "isArchived": false,
+          "isDraft": false,
+          "fieldData": {
+            "page-title": "Select the use case that best align with your interests",
+            "page-subtitle": "Based on your selected use case and preferences, we'll recommend the most relevant dashboards to support your goals",
+            "page-subtitle-2-optional": "Unsure which use case to select? No worries—we’re here to assist you!",
+            "product-name": "Pulse",
+            "name": "Pulse_usecases_screen_page",
+            "slug": "pulse-usecases-screen-page"
+          }
+        }
+      ],
+      "slug": "pulse-onboarding-flow"
     }
-  },
-  "translations": {
-    "FIELD_ERROR_REQUIRED_FIELD": "Please complete this required field.",
-    "FIELD_ERROR_PHONE_INVALID_CHARACTERS": "Must start with an extension and contain only numbers, +()-. and x.",
-    "FIELD_ERROR_INPUT_TOO_LARGE": "Please use fewer than 65536 characters.",
-    "FIELD_ERROR_INVALID_EMAIL_FORMAT": "Email must be formatted correctly.",
-    "FIELD_ERROR_FILE_TOO_LARGE": "Selected file is too large. Maximum allowed size is 100MB.",
-    "FIELD_ERROR_INVALID_DATE": "Please enter a valid date.",
-    "FIELD_ERROR_INVALID_NUMBER": "Please enter a valid number.",
-    "GLOBAL_ERROR_MISSING_REQUIRED_FIELDS": "Please complete all required fields.",
-    "GLOBAL_ERROR_BLOCKED_EMAIL": "Please change your email address to continue.",
-    "GLOBAL_ERROR_TOO_MANY_REQUESTS": "There was an issue submitting your form. Please wait a few seconds and try again.",
-    "GLOBAL_ERROR_FIELD_ERRORS": "The form could not be submitted because some fields contain errors.",
-    "NUMBER_DECIMAL_INFO": "Note: using a comma, full stop or period will give you a decimal.",
-    "EMAIL_RESUBSCRIBE_REQUIRED": "Looks like you've opted out of email communication. Click here to get an email and opt back in.",
-    "EMAIL_SUGGESTION": "Did you mean {{suggestion}}?",
-    "FILE_LABEL_SINGLE_DROP": "Drop a file here to upload",
-    "FILE_LABEL_MULTIPLE_DROP": "Drop files here to upload",
-    "FILE_SUBTITLE_BROWSE": "Or, click to browse",
-    "FILE_LABEL_UPLOADING": "Uploading",
-    "FILE_LABEL_UPLOAD_COMPLETE": "Upload complete",
-    "FILE_LABEL_UPLOAD_FAILED": "Upload failed",
-    "FILE_SUBTITLE_SEC_REMAINING": "{{seconds}} seconds remaining",
-    "FILE_SUBTITLE_REMOVE_FILE": "Remove",
-    "FILE_SUBTITLE_RETRY_FILE": "Retry or start again"
   }
-};
+];
