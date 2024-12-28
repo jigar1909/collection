@@ -222,7 +222,7 @@ export const webflowResponse = [
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:45:41.415Z",
+                "lastUpdated": "2024-12-27T05:29:15.658Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -232,8 +232,8 @@ export const webflowResponse = [
                   "card-title": "KOS",
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
                   "client-logo": {
-                    "fileId": "676a90cc988c07ae30f3d42f",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "fileId": "676e3b26bfce89d3eb6da3bd",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676e3b26bfce89d3eb6da3bd_KOS.svg",
                     "alt": null
                   }
                 }
@@ -451,7 +451,7 @@ export const webflowResponse = [
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:45:41.415Z",
+                "lastUpdated": "2024-12-27T05:29:15.658Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -461,8 +461,8 @@ export const webflowResponse = [
                   "card-title": "KOS",
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
                   "client-logo": {
-                    "fileId": "676a90cc988c07ae30f3d42f",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "fileId": "676e3b26bfce89d3eb6da3bd",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676e3b26bfce89d3eb6da3bd_KOS.svg",
                     "alt": null
                   }
                 }
@@ -688,7 +688,7 @@ export const webflowResponse = [
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:45:41.415Z",
+                "lastUpdated": "2024-12-27T05:29:15.658Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -698,8 +698,8 @@ export const webflowResponse = [
                   "card-title": "KOS",
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
                   "client-logo": {
-                    "fileId": "676a90cc988c07ae30f3d42f",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90cc988c07ae30f3d42f_KOS.svg",
+                    "fileId": "676e3b26bfce89d3eb6da3bd",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676e3b26bfce89d3eb6da3bd_KOS.svg",
                     "alt": null
                   }
                 }
