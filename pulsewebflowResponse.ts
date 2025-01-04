@@ -29,7 +29,7 @@ export const webflowResponse = [
                 "id": "67288eaddc07c20fdc1fbc82",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:48:08.942Z",
+                "lastUpdated": "2025-01-03T13:07:17.481Z",
                 "createdOn": "2024-11-04T09:06:53.216Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -37,8 +37,8 @@ export const webflowResponse = [
                   "name": "InnoSupps",
                   "slug": "innosupps",
                   "client-logo": {
-                    "fileId": "67288ea1ee114596f1de8341",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288ea1ee114596f1de8341_Innosupps.svg",
+                    "fileId": "6777e101f0bc14516e218f4c",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e101f0bc14516e218f4c_Innosupps.svg",
                     "alt": null
                   },
                   "card-type": "Logo Only",
@@ -49,15 +49,15 @@ export const webflowResponse = [
                 "id": "673488cab6b06bb03c5df05d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:47:53.619Z",
+                "lastUpdated": "2025-01-03T08:45:28.590Z",
                 "createdOn": "2024-11-13T11:08:58.969Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
                   "name": "Murad",
                   "client-logo": {
-                    "fileId": "673488c68039cbdbfbf14436",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673488c68039cbdbfbf14436_Murad.svg",
+                    "fileId": "6777a3a5a6f1de3ca3856220",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777a3a5a6f1de3ca3856220_Murad.svg",
                     "alt": null
                   },
                   "slug": "murad",
@@ -69,7 +69,7 @@ export const webflowResponse = [
                 "id": "67288e7fafbed21b426a666d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:46:26.965Z",
+                "lastUpdated": "2025-01-03T10:06:10.660Z",
                 "createdOn": "2024-11-04T09:06:07.075Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -77,8 +77,8 @@ export const webflowResponse = [
                   "name": "Weezie",
                   "slug": "weezie",
                   "client-logo": {
-                    "fileId": "676a90fde0a57746f535fffa",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a90fde0a57746f535fffa_Weezie.svg",
+                    "fileId": "6777b6909ec0a3f943781d1f",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6909ec0a3f943781d1f_weezie.svg",
                     "alt": null
                   },
                   "card-title": "Weezie",
@@ -89,7 +89,7 @@ export const webflowResponse = [
                 "id": "67288e912dd4b564ae70247d",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:48:24.137Z",
+                "lastUpdated": "2025-01-03T13:07:31.132Z",
                 "createdOn": "2024-11-04T09:06:25.421Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -97,8 +97,8 @@ export const webflowResponse = [
                   "name": "Sakara",
                   "slug": "sakara",
                   "client-logo": {
-                    "fileId": "67288e8e6245822b4ec5ac04",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67288e8e6245822b4ec5ac04_sakara.svg",
+                    "fileId": "6777e10f6bdb47d1f41092df",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e10f6bdb47d1f41092df_Sakara.svg",
                     "alt": null
                   },
                   "card-type": "Logo Only",
@@ -109,7 +109,7 @@ export const webflowResponse = [
                 "id": "673487d081e43d472ddb30b1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-27T05:29:15.658Z",
+                "lastUpdated": "2025-01-03T10:05:09.731Z",
                 "createdOn": "2024-11-13T11:04:48.580Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -119,8 +119,8 @@ export const webflowResponse = [
                   "card-title": "KOS",
                   "card-type": "Logo Only",
                   "client-logo": {
-                    "fileId": "676e3b26bfce89d3eb6da3bd",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676e3b26bfce89d3eb6da3bd_KOS.svg",
+                    "fileId": "6777b6503c4f7c8fa3469db1",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6503c4f7c8fa3469db1_KOS.svg",
                     "alt": null
                   }
                 }
@@ -149,7 +149,7 @@ export const webflowResponse = [
                 "id": "676a91d1899b342dacc6e1c0",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:50:32.390Z",
+                "lastUpdated": "2025-01-03T10:05:52.398Z",
                 "createdOn": "2024-12-24T10:49:53.277Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -158,8 +158,8 @@ export const webflowResponse = [
                   "card-title": "Earth Breeze",
                   "name": "Earth Breeze",
                   "client-logo": {
-                    "fileId": "676a91cdb1b3f7be7a5f2d65",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a91cdb1b3f7be7a5f2d65_Earth%20Breeze.svg",
+                    "fileId": "6777b67c19a4857877f8abdb",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b67c19a4857877f8abdb_Earth%20Breeeze.svg",
                     "alt": null
                   },
                   "slug": "earth-breeze"
