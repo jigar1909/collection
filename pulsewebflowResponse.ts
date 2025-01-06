@@ -14,7 +14,7 @@ export const webflowResponse = [
           "id": "6756cd39a5e2779fca274f83",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-24T11:37:45.960Z",
+          "lastUpdated": "2025-01-06T12:47:43.498Z",
           "createdOn": "2024-12-09T10:58:01.792Z",
           "isArchived": false,
           "isDraft": false,
@@ -26,183 +26,37 @@ export const webflowResponse = [
             "page-title": "Welcome to Pulse — <span>One unified platform for all your data needs</span>",
             "linked-client": [
               {
-                "id": "67288eaddc07c20fdc1fbc82",
+                "id": "67695bf1f2abd948e4c0f480",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-03T13:07:17.481Z",
-                "createdOn": "2024-11-04T09:06:53.216Z",
+                "lastUpdated": "2024-12-24T10:50:59.014Z",
+                "createdOn": "2024-12-23T12:47:45.360Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "InnoSupps",
-                  "slug": "innosupps",
-                  "client-logo": {
-                    "fileId": "6777e101f0bc14516e218f4c",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e101f0bc14516e218f4c_Innosupps.svg",
-                    "alt": null
-                  },
-                  "card-type": "Logo Only",
-                  "card-title": "InnoSupps"
-                }
-              },
-              {
-                "id": "673488cab6b06bb03c5df05d",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2025-01-03T08:45:28.590Z",
-                "createdOn": "2024-11-13T11:08:58.969Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "name": "Murad",
-                  "client-logo": {
-                    "fileId": "6777a3a5a6f1de3ca3856220",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777a3a5a6f1de3ca3856220_Murad.svg",
-                    "alt": null
-                  },
-                  "slug": "murad",
-                  "card-type": "Logo Only",
-                  "card-title": "Murad"
-                }
-              },
-              {
-                "id": "67288e7fafbed21b426a666d",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2025-01-03T10:06:10.660Z",
-                "createdOn": "2024-11-04T09:06:07.075Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
+                  "card-type": "Testimonials",
+                  "card-title": "Lindsey Johnson",
+                  "card-subtitle": "CEO",
+                  "card-description": "Saras team is a jack of all trades and an extension of our growth team. Beyond helping us with customized data tracking and dashboards, they guided us a lot. We can't recommend them enough!",
                   "name": "Weezie",
-                  "slug": "weezie",
-                  "client-logo": {
-                    "fileId": "6777b6909ec0a3f943781d1f",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6909ec0a3f943781d1f_weezie.svg",
-                    "alt": null
-                  },
-                  "card-title": "Weezie",
-                  "card-type": "Logo Only"
+                  "slug": "weezie-testimonial"
                 }
               },
               {
-                "id": "67288e912dd4b564ae70247d",
+                "id": "677bbc7741305d030cca4881",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-03T13:07:31.132Z",
-                "createdOn": "2024-11-04T09:06:25.421Z",
+                "lastUpdated": "2025-01-06T11:20:23.161Z",
+                "createdOn": "2025-01-06T11:20:23.161Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sakara",
-                  "slug": "sakara",
-                  "client-logo": {
-                    "fileId": "6777e10f6bdb47d1f41092df",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e10f6bdb47d1f41092df_Sakara.svg",
-                    "alt": null
-                  },
-                  "card-type": "Logo Only",
-                  "card-title": "Sakara"
-                }
-              },
-              {
-                "id": "673487d081e43d472ddb30b1",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2025-01-03T10:05:09.731Z",
-                "createdOn": "2024-11-13T11:04:48.580Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "name": "KOS",
-                  "slug": "kos",
-                  "card-title": "KOS",
-                  "card-type": "Logo Only",
-                  "client-logo": {
-                    "fileId": "6777b6503c4f7c8fa3469db1",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6503c4f7c8fa3469db1_KOS.svg",
-                    "alt": null
-                  }
-                }
-              },
-              {
-                "id": "676a9c87f26fb5bc73af7701",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2024-12-24T11:35:38.825Z",
-                "createdOn": "2024-12-24T11:35:35.454Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "card-type": "Logo Only",
-                  "card-title": "Athletic Greens",
-                  "name": "Athletic Greens",
-                  "slug": "athletic-greens",
-                  "client-logo": {
-                    "fileId": "676a9c83e0a57746f5410f5d",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a9c83e0a57746f5410f5d_AG.svg",
-                    "alt": null
-                  }
-                }
-              },
-              {
-                "id": "676a91d1899b342dacc6e1c0",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2025-01-03T10:05:52.398Z",
-                "createdOn": "2024-12-24T10:49:53.277Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "card-type": "Logo Only",
-                  "card-title": "Earth Breeze",
-                  "name": "Earth Breeze",
-                  "client-logo": {
-                    "fileId": "6777b67c19a4857877f8abdb",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b67c19a4857877f8abdb_Earth%20Breeeze.svg",
-                    "alt": null
-                  },
-                  "slug": "earth-breeze"
-                }
-              },
-              {
-                "id": "676a9c54454544f827b9f2b3",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2024-12-24T11:34:47.953Z",
-                "createdOn": "2024-12-24T11:34:44.853Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "card-type": "Logo Only",
-                  "card-title": "Tru Niagen",
-                  "name": "Tru Niagen",
-                  "client-logo": {
-                    "fileId": "676a9c4fe1d52eb97623ac1a",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a9c4fe1d52eb97623ac1a_Tru%20Niagen.svg",
-                    "alt": null
-                  },
-                  "slug": "tru-niagen"
-                }
-              },
-              {
-                "id": "676a9c14b2605216c1614cf1",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2024-12-24T11:33:44.517Z",
-                "createdOn": "2024-12-24T11:33:40.894Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "card-type": "Logo Only",
-                  "card-title": "Momentous",
-                  "name": "Momentous",
-                  "client-logo": {
-                    "fileId": "676a926a93ea3cd85a1a6f60",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a926a93ea3cd85a1a6f60_Momentous.svg",
-                    "alt": null
-                  },
-                  "slug": "momentous"
+                  "card-type": "Testimonials",
+                  "card-title": "Hayden Hill London",
+                  "card-subtitle": "Head of Trading",
+                  "card-description": "It's lovely to see our Shopify and Amazon sales together, we can look at one product across different platforms to see its performance. Because there's really no way to see that in Amazon. ",
+                  "name": "Hayden Hill London",
+                  "slug": "hayden-hill-london"
                 }
               },
               {
@@ -223,20 +77,88 @@ export const webflowResponse = [
                 }
               },
               {
-                "id": "67695bf1f2abd948e4c0f480",
+                "id": "677bbd175a39683ce7653c80",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:50:59.014Z",
-                "createdOn": "2024-12-23T12:47:45.360Z",
+                "lastUpdated": "2025-01-06T11:33:32.440Z",
+                "createdOn": "2025-01-06T11:23:03.994Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
                   "card-type": "Testimonials",
-                  "card-title": "Lindsey Johnson",
-                  "card-subtitle": "CEO",
-                  "card-description": "Saras team is a jack of all trades and an extension of our growth team. Beyond helping us with customized data tracking and dashboards, they guided us a lot. We can't recommend them enough!",
-                  "name": "Weezie",
-                  "slug": "weezie-testimonial"
+                  "card-title": "Josh Holley",
+                  "card-subtitle": "COO & CFO",
+                  "card-description": "Saras built a tracking system for us to identify recently churned high value customers. Helping our customer success team launch hyper-targeted outreach program for these customers that resulted in a significant uptick in retention. ",
+                  "name": "BPN",
+                  "slug": "bpn"
+                }
+              },
+              {
+                "id": "677bbd3e43140d29ba609ae4",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-01-06T11:33:43.125Z",
+                "createdOn": "2025-01-06T11:23:42.899Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Testimonials",
+                  "card-title": "Nadine Elway (Maloney)",
+                  "card-subtitle": "Director of BI & Data Engineering",
+                  "card-description": "I’m constantly inspired by the expertise Saras team brings to the table. It’s truly rewarding to work with such skilled professionals and to continue learning and exploring from them.",
+                  "name": "True Classic",
+                  "slug": "true-classic"
+                }
+              },
+              {
+                "id": "677bbd7c3e42fa7ebfd0aeed",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-01-06T11:40:53.978Z",
+                "createdOn": "2025-01-06T11:24:44.124Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Testimonials",
+                  "card-title": "Kevin Dalaeli",
+                  "card-subtitle": "President & COO",
+                  "card-description": "Saras Analytics is a Swiss army knife which is a must-have for any omnichannel brand's success. With their custom analytics solution, we went from working on the data to making decisions based on the data!",
+                  "name": "KOS",
+                  "slug": "kos-testimonial"
+                }
+              },
+              {
+                "id": "677bbd914311d09ade57d186",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-01-06T11:41:14.052Z",
+                "createdOn": "2025-01-06T11:25:05.529Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Testimonials",
+                  "card-title": "James (Riley) Ambrose",
+                  "card-subtitle": "Director of Product Management",
+                  "card-description": "Saras helped us resolve our GA data challenges by conducting a thorough 3-step audit of our setup and GA4 properties. Then, their solution helped us get the right configurational changes required, consistent page and goal tracking. ",
+                  "name": "Mack Weldon",
+                  "slug": "mack-weldon"
+                }
+              },
+              {
+                "id": "677bbdb86f398e7235342dc1",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-01-06T11:41:37.110Z",
+                "createdOn": "2025-01-06T11:25:44.853Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Testimonials",
+                  "card-title": "Stephen Hou",
+                  "card-subtitle": "Manager, Digital Data Analytics",
+                  "card-description": "Saras provided us with an end-to-end data solution, their data acted as a single source of truth, powering many strategic decisions. They also helped evolve our dashboard by recommending solutions or new views that weren’t originally requested.",
+                  "name": "Murad Testimonial",
+                  "slug": "murad-testimonial"
                 }
               }
             ],
