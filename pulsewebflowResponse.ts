@@ -29,7 +29,7 @@ export const webflowResponse = [
                 "id": "67695bf1f2abd948e4c0f480",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:50:59.014Z",
+                "lastUpdated": "2025-01-07T12:45:50.352Z",
                 "createdOn": "2024-12-23T12:47:45.360Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -39,14 +39,19 @@ export const webflowResponse = [
                   "card-subtitle": "CEO",
                   "card-description": "Saras team is a jack of all trades and an extension of our growth team. Beyond helping us with customized data tracking and dashboards, they guided us a lot. We can't recommend them enough!",
                   "name": "Weezie",
-                  "slug": "weezie-testimonial"
+                  "slug": "weezie-testimonial",
+                  "client-logo": {
+                    "fileId": "677d21fb31bcda5ec44c5d29",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21fb31bcda5ec44c5d29_WEEZIE_LOGO.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "677bbc7741305d030cca4881",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-06T11:20:23.161Z",
+                "lastUpdated": "2025-01-07T12:45:37.948Z",
                 "createdOn": "2025-01-06T11:20:23.161Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -56,14 +61,19 @@ export const webflowResponse = [
                   "card-subtitle": "Head of Trading",
                   "card-description": "It's lovely to see our Shopify and Amazon sales together, we can look at one product across different platforms to see its performance. Because there's really no way to see that in Amazon. ",
                   "name": "Hayden Hill London",
-                  "slug": "hayden-hill-london"
+                  "slug": "hayden-hill-london",
+                  "client-logo": {
+                    "fileId": "677d21ec3bdb630c82425901",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21ec3bdb630c82425901_HAYDENHILL_LOGO.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "67695b3de4d546944a120613",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T10:51:52.431Z",
+                "lastUpdated": "2025-01-07T12:46:01.425Z",
                 "createdOn": "2024-12-23T12:44:45.685Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -73,14 +83,19 @@ export const webflowResponse = [
                   "card-subtitle": "CEO",
                   "card-description": "Saras's customer 360 provided us Advanced Customer Cohorts with CLTV analysis across segments and channels, helping us target the right customers through personalised communication. The forecasting and BI Dashboards helped us measure the right data. ",
                   "name": "Faherty",
-                  "slug": "faherty-testimonial"
+                  "slug": "faherty-testimonial",
+                  "client-logo": {
+                    "fileId": "677d22056271f6b54d3ec409",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d22056271f6b54d3ec409_FAHERTY%20LOGO.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "677bbd175a39683ce7653c80",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-06T11:33:32.440Z",
+                "lastUpdated": "2025-01-07T12:45:24.255Z",
                 "createdOn": "2025-01-06T11:23:03.994Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -90,14 +105,19 @@ export const webflowResponse = [
                   "card-subtitle": "COO & CFO",
                   "card-description": "Saras built a tracking system for us to identify recently churned high value customers. Helping our customer success team launch hyper-targeted outreach program for these customers that resulted in a significant uptick in retention. ",
                   "name": "BPN",
-                  "slug": "bpn"
+                  "slug": "bpn",
+                  "client-logo": {
+                    "fileId": "677d21df2bb55c126c1b6d52",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21df2bb55c126c1b6d52_BPN_LOGO.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "677bbd3e43140d29ba609ae4",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-06T11:33:43.125Z",
+                "lastUpdated": "2025-01-07T12:45:03.741Z",
                 "createdOn": "2025-01-06T11:23:42.899Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -107,14 +127,19 @@ export const webflowResponse = [
                   "card-subtitle": "Director of BI & Data Engineering",
                   "card-description": "I’m constantly inspired by the expertise Saras team brings to the table. It’s truly rewarding to work with such skilled professionals and to continue learning and exploring from them.",
                   "name": "True Classic",
-                  "slug": "true-classic"
+                  "slug": "true-classic",
+                  "client-logo": {
+                    "fileId": "677d21c9bd303a22adb344b2",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21c9bd303a22adb344b2_TRUECLASSIC_LOGO.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "677bbd7c3e42fa7ebfd0aeed",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-06T11:40:53.978Z",
+                "lastUpdated": "2025-01-07T12:44:49.688Z",
                 "createdOn": "2025-01-06T11:24:44.124Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -124,14 +149,19 @@ export const webflowResponse = [
                   "card-subtitle": "President & COO",
                   "card-description": "Saras Analytics is a Swiss army knife which is a must-have for any omnichannel brand's success. With their custom analytics solution, we went from working on the data to making decisions based on the data!",
                   "name": "KOS",
-                  "slug": "kos-testimonial"
+                  "slug": "kos-testimonial",
+                  "client-logo": {
+                    "fileId": "677d21be44398a30b566736e",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21be44398a30b566736e_KOS.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "677bbd914311d09ade57d186",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-06T11:41:14.052Z",
+                "lastUpdated": "2025-01-07T12:44:29.093Z",
                 "createdOn": "2025-01-06T11:25:05.529Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -141,14 +171,19 @@ export const webflowResponse = [
                   "card-subtitle": "Director of Product Management",
                   "card-description": "Saras helped us resolve our GA data challenges by conducting a thorough 3-step audit of our setup and GA4 properties. Then, their solution helped us get the right configurational changes required, consistent page and goal tracking. ",
                   "name": "Mack Weldon",
-                  "slug": "mack-weldon"
+                  "slug": "mack-weldon",
+                  "client-logo": {
+                    "fileId": "677d21a8f509a4639c97f876",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21a8f509a4639c97f876_MACK%20WELDON%20_%20LOGO.svg",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "677bbdb86f398e7235342dc1",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-06T11:41:37.110Z",
+                "lastUpdated": "2025-01-07T12:44:16.829Z",
                 "createdOn": "2025-01-06T11:25:44.853Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -158,7 +193,12 @@ export const webflowResponse = [
                   "card-subtitle": "Manager, Digital Data Analytics",
                   "card-description": "Saras provided us with an end-to-end data solution, their data acted as a single source of truth, powering many strategic decisions. They also helped evolve our dashboard by recommending solutions or new views that weren’t originally requested.",
                   "name": "Murad Testimonial",
-                  "slug": "murad-testimonial"
+                  "slug": "murad-testimonial",
+                  "client-logo": {
+                    "fileId": "677d219a8495612caa2b1f3e",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d219a8495612caa2b1f3e_Murad.svg",
+                    "alt": null
+                  }
                 }
               }
             ],
