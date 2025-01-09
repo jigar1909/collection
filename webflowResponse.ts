@@ -65,7 +65,7 @@ export const webflowResponse = [
                 "id": "674877a7f6cca8d065971fc9",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:10:54.633Z",
+                "lastUpdated": "2025-01-08T06:16:28.488Z",
                 "createdOn": "2024-11-28T14:01:11.246Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -77,8 +77,8 @@ export const webflowResponse = [
                   "slug": "globalsignup-daton-card1",
                   "card-logo": [
                     {
-                      "fileId": "67502c5f6bf206043e6af97b",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502c5f6bf206043e6af97b_Consolidation.svg",
+                      "fileId": "677e18360d834993933667af",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e18360d834993933667af_Saras%20Consolidation.svg",
                       "alt": null
                     }
                   ],
@@ -90,7 +90,7 @@ export const webflowResponse = [
                 "id": "67502d19ab7b5070a6df54aa",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:11:08.205Z",
+                "lastUpdated": "2025-01-08T06:17:51.248Z",
                 "createdOn": "2024-12-04T10:21:13.441Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -101,8 +101,8 @@ export const webflowResponse = [
                   "card-description": "Analyze data quickly and efficiently to shape your digital initiatives",
                   "card-logo": [
                     {
-                      "fileId": "67502d0fbbae0b4d3c898b0a",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502d0fbbae0b4d3c898b0a_Analysis.svg",
+                      "fileId": "677e188c050c01899a3d7c6a",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e188c050c01899a3d7c6a_Saras%20Database.svg",
                       "alt": null
                     }
                   ],
@@ -115,7 +115,7 @@ export const webflowResponse = [
                 "id": "67502d484b68de7b72155b14",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:11:24.171Z",
+                "lastUpdated": "2025-01-08T06:17:19.281Z",
                 "createdOn": "2024-12-04T10:22:00.140Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -126,8 +126,8 @@ export const webflowResponse = [
                   "name": "Globalsignup_daton_card3",
                   "card-logo": [
                     {
-                      "fileId": "67502d3cf01754f4af7b461f",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502d3cf01754f4af7b461f_Forecasting.svg",
+                      "fileId": "677e185b94f8a483ec053dd6",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e185b94f8a483ec053dd6_Saras%20Forecasting.svg",
                       "alt": null
                     }
                   ],
@@ -314,7 +314,7 @@ export const webflowResponse = [
                 "id": "67502dde3f7ed3b8d6fad3bc",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:11:35.497Z",
+                "lastUpdated": "2025-01-08T06:24:38.692Z",
                 "createdOn": "2024-12-04T10:24:30.122Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -326,8 +326,8 @@ export const webflowResponse = [
                   "slug": "globalsignup-pulse-card1",
                   "card-logo": [
                     {
-                      "fileId": "673afc39940a4451be69750c",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673afc39940a4451be69750c_ConsolidationPulse.svg",
+                      "fileId": "677e1a2289dac6d01882f558",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e1a2289dac6d01882f558_Pulse%20Analysis.svg",
                       "alt": null
                     }
                   ],
@@ -339,7 +339,7 @@ export const webflowResponse = [
                 "id": "67502e057a1a7e2fc2e8ba97",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:12:01.542Z",
+                "lastUpdated": "2025-01-08T06:24:55.818Z",
                 "createdOn": "2024-12-04T10:25:09.004Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -350,8 +350,8 @@ export const webflowResponse = [
                   "card-description": "Get tailored insights and dashboards for your unique business needs",
                   "card-logo": [
                     {
-                      "fileId": "673afc2d50ede140434c8cae",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673afc2d50ede140434c8cae_AnalysisPulse.svg",
+                      "fileId": "677e1a34c742a023b88d4d46",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e1a34c742a023b88d4d46_Pulse%20Database.svg",
                       "alt": null
                     }
                   ],
@@ -364,7 +364,7 @@ export const webflowResponse = [
                 "id": "67502e2d1affd684b4513333",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:12:10.238Z",
+                "lastUpdated": "2025-01-08T06:25:18.370Z",
                 "createdOn": "2024-12-04T10:25:49.439Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -375,8 +375,8 @@ export const webflowResponse = [
                   "name": "Globalsignup_pulse_card3",
                   "card-logo": [
                     {
-                      "fileId": "673afc239ad628aba5d4d210",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/673afc239ad628aba5d4d210_ForecastingPulse.svg",
+                      "fileId": "677e1a4aa278d2e7bac3d11f",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e1a4aa278d2e7bac3d11f_Pulse%20Forecasting.svg",
                       "alt": null
                     }
                   ],
@@ -567,7 +567,7 @@ export const webflowResponse = [
                 "id": "67503e39ca61ce816f97cf65",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:12:26.189Z",
+                "lastUpdated": "2025-01-08T06:18:02.925Z",
                 "createdOn": "2024-12-04T11:34:17.476Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -579,8 +579,8 @@ export const webflowResponse = [
                   "card-description": "Move data from 200+ sources and transform them into analytics ready tables",
                   "card-logo": [
                     {
-                      "fileId": "67502c5f6bf206043e6af97b",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502c5f6bf206043e6af97b_Consolidation.svg",
+                      "fileId": "677e18360d834993933667af",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e18360d834993933667af_Saras%20Consolidation.svg",
                       "alt": null
                     }
                   ],
@@ -593,7 +593,7 @@ export const webflowResponse = [
                 "id": "67503e6d3911a358777d3782",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:12:35.107Z",
+                "lastUpdated": "2025-01-08T06:18:14.370Z",
                 "createdOn": "2024-12-04T11:35:09.920Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -605,8 +605,8 @@ export const webflowResponse = [
                   "card-description": "All-in-one dashboards to visualize, analyze, and optimize business performance ",
                   "card-logo": [
                     {
-                      "fileId": "67502d0fbbae0b4d3c898b0a",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502d0fbbae0b4d3c898b0a_Analysis.svg",
+                      "fileId": "677e18a317fa0aaceffdaaf8",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e18a317fa0aaceffdaaf8_Saras%20Analysis.svg",
                       "alt": null
                     }
                   ],
@@ -619,7 +619,7 @@ export const webflowResponse = [
                 "id": "67503ecfbaefdb44be359608",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-16T08:12:53.755Z",
+                "lastUpdated": "2025-01-08T06:18:27.313Z",
                 "createdOn": "2024-12-04T11:36:47.927Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -631,8 +631,8 @@ export const webflowResponse = [
                   "card-description": "Get a customized data solution with our expert consulting ",
                   "card-logo": [
                     {
-                      "fileId": "67502d3cf01754f4af7b461f",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67502d3cf01754f4af7b461f_Forecasting.svg",
+                      "fileId": "677e185b94f8a483ec053dd6",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e185b94f8a483ec053dd6_Saras%20Forecasting.svg",
                       "alt": null
                     }
                   ],
