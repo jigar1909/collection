@@ -314,7 +314,7 @@ export const webflowResponse = [
                 "id": "67502dde3f7ed3b8d6fad3bc",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-08T06:24:38.692Z",
+                "lastUpdated": "2025-01-09T10:31:54.698Z",
                 "createdOn": "2024-12-04T10:24:30.122Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -326,8 +326,8 @@ export const webflowResponse = [
                   "slug": "globalsignup-pulse-card1",
                   "card-logo": [
                     {
-                      "fileId": "677e1a2289dac6d01882f558",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e1a2289dac6d01882f558_Pulse%20Analysis.svg",
+                      "fileId": "677fa59583e3827a04f882f0",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa59583e3827a04f882f0_Pulse%20Green%20Analysis.svg",
                       "alt": null
                     }
                   ],
@@ -339,7 +339,7 @@ export const webflowResponse = [
                 "id": "67502e057a1a7e2fc2e8ba97",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-08T06:24:55.818Z",
+                "lastUpdated": "2025-01-09T10:32:13.979Z",
                 "createdOn": "2024-12-04T10:25:09.004Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -350,8 +350,8 @@ export const webflowResponse = [
                   "card-description": "Get tailored insights and dashboards for your unique business needs",
                   "card-logo": [
                     {
-                      "fileId": "677e1a34c742a023b88d4d46",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e1a34c742a023b88d4d46_Pulse%20Database.svg",
+                      "fileId": "677fa5a778cd3e8dc4ff89a4",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa5a778cd3e8dc4ff89a4_Pulse%20Green%20Database.svg",
                       "alt": null
                     }
                   ],
@@ -364,7 +364,7 @@ export const webflowResponse = [
                 "id": "67502e2d1affd684b4513333",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-08T06:25:18.370Z",
+                "lastUpdated": "2025-01-09T10:32:59.120Z",
                 "createdOn": "2024-12-04T10:25:49.439Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -375,8 +375,8 @@ export const webflowResponse = [
                   "name": "Globalsignup_pulse_card3",
                   "card-logo": [
                     {
-                      "fileId": "677e1a4aa278d2e7bac3d11f",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677e1a4aa278d2e7bac3d11f_Pulse%20Forecasting.svg",
+                      "fileId": "677fa5bdf3edcd84d6012ea8",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa5bdf3edcd84d6012ea8_Pulse%20Green%20Forecasting.svg",
                       "alt": null
                     }
                   ],
@@ -947,7 +947,7 @@ export const webflowResponse = [
                 "id": "6750538b1b238dc140f63c04",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-26T08:01:49.391Z",
+                "lastUpdated": "2025-01-09T10:28:25.355Z",
                 "createdOn": "2024-12-04T13:05:15.911Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -960,8 +960,8 @@ export const webflowResponse = [
                   "card-description": "Learn about our free trial and get an overview of the subscription plans",
                   "card-logo": [
                     {
-                      "fileId": "676a44c1edeeceaba150bf90",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a44c1edeeceaba150bf90_ForecastingPulse.svg",
+                      "fileId": "677fa4b1c379599ae0daf958",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa4b1c379599ae0daf958_ForecastingPulseGreen.svg",
                       "alt": null
                     }
                   ],
@@ -975,7 +975,7 @@ export const webflowResponse = [
                 "id": "675053aeffe37a8593655f3c",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-24T05:22:05.379Z",
+                "lastUpdated": "2025-01-09T10:28:51.158Z",
                 "createdOn": "2024-12-04T13:05:50.122Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -989,8 +989,8 @@ export const webflowResponse = [
                   "slug": "pulse-key-feature-card4",
                   "card-logo": [
                     {
-                      "fileId": "676a44c1edeeceaba150bf90",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/676a44c1edeeceaba150bf90_ForecastingPulse.svg",
+                      "fileId": "677fa4b1c379599ae0daf958",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa4b1c379599ae0daf958_ForecastingPulseGreen.svg",
                       "alt": null
                     }
                   ],
@@ -1029,7 +1029,7 @@ export const webflowResponse = [
                 "id": "67504e2ff1934367531fdbf0",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-26T05:55:31.245Z",
+                "lastUpdated": "2025-01-09T10:38:25.592Z",
                 "createdOn": "2024-12-04T12:42:23.281Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -1040,8 +1040,8 @@ export const webflowResponse = [
                   "name": "Globalsignup_pulse_product_card",
                   "card-logo": [
                     {
-                      "fileId": "67504e2b513884dd207262f1",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67504e2b513884dd207262f1_pulseCard.svg",
+                      "fileId": "677fa71d870abc1d12723c00",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa71d870abc1d12723c00_Pulse%20Green%20Card.svg",
                       "alt": null
                     }
                   ],
