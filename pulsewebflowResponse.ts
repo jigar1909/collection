@@ -325,7 +325,7 @@ export const webflowResponse = [
                 "id": "67651124a666d09a5c46b0de",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T05:00:01.133Z",
+                "lastUpdated": "2025-02-06T07:43:37.583Z",
                 "createdOn": "2024-12-20T06:39:32.615Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -336,8 +336,8 @@ export const webflowResponse = [
                   "name": "CEO",
                   "slug": "ceo",
                   "client-logo": {
-                    "fileId": "67a441ce9e7f1bc1a7f5654a",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441ce9e7f1bc1a7f5654a_CEO.png",
+                    "fileId": "67a46826ca25612282f97675",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a46826ca25612282f97675_CEO.png",
                     "alt": null
                   }
                 }
@@ -346,7 +346,7 @@ export const webflowResponse = [
                 "id": "67651194ef9bcf3a5459fc71",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:59:50.049Z",
+                "lastUpdated": "2025-02-06T07:43:26.346Z",
                 "createdOn": "2024-12-20T06:41:24.591Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -357,8 +357,8 @@ export const webflowResponse = [
                   "name": "CMO/Head of Growth",
                   "slug": "cmo-head-of-growth",
                   "client-logo": {
-                    "fileId": "67a441c323b3b3c90c064937",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441c323b3b3c90c064937_CMOHead%20of%20Growth.png",
+                    "fileId": "67a4681ae40f1c87abeb9e9a",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4681ae40f1c87abeb9e9a_CMOHead%20of%20Growth.png",
                     "alt": null
                   }
                 }
@@ -367,7 +367,7 @@ export const webflowResponse = [
                 "id": "676511c388c32ae231663983",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:59:36.677Z",
+                "lastUpdated": "2025-02-06T07:43:00.128Z",
                 "createdOn": "2024-12-20T06:42:11.334Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -378,8 +378,8 @@ export const webflowResponse = [
                   "name": "COO",
                   "slug": "coo",
                   "client-logo": {
-                    "fileId": "67a441b5698fe4c1ceb343a4",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441b5698fe4c1ceb343a4_COO.png",
+                    "fileId": "67a467e62393734d2f6e3c78",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a467e62393734d2f6e3c78_COO.png",
                     "alt": null
                   }
                 }
@@ -388,7 +388,7 @@ export const webflowResponse = [
                 "id": "6765120aef9bcf3a545a625b",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:59:26.211Z",
+                "lastUpdated": "2025-02-06T07:43:47.738Z",
                 "createdOn": "2024-12-20T06:43:22.068Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -399,8 +399,8 @@ export const webflowResponse = [
                   "name": "CFO",
                   "slug": "cfo",
                   "client-logo": {
-                    "fileId": "67a441aa2447c0c73377c9b0",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441aa2447c0c73377c9b0_CFO.png",
+                    "fileId": "67a4683040c75027d23935f9",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4683040c75027d23935f9_CFO.png",
                     "alt": null
                   }
                 }
@@ -409,7 +409,7 @@ export const webflowResponse = [
                 "id": "6765125d70437796d08b097a",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:59:16.969Z",
+                "lastUpdated": "2025-02-06T07:42:10.335Z",
                 "createdOn": "2024-12-20T06:44:45.402Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -420,8 +420,8 @@ export const webflowResponse = [
                   "name": "Retention Marketers",
                   "slug": "retention-marketers",
                   "client-logo": {
-                    "fileId": "67a441a1810c42fd526e449e",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441a1810c42fd526e449e_Retention%20Marketers.png",
+                    "fileId": "67a467cd6fd8ec2f355a18c2",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a467cd6fd8ec2f355a18c2_Retention%20Marketers.png",
                     "alt": null
                   }
                 }
@@ -430,7 +430,7 @@ export const webflowResponse = [
                 "id": "676512791cc2d8ccffaae05e",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:58:58.264Z",
+                "lastUpdated": "2025-02-06T07:41:58.678Z",
                 "createdOn": "2024-12-20T06:45:13.097Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -441,8 +441,8 @@ export const webflowResponse = [
                   "name": "Data Analyst",
                   "slug": "data-analyst",
                   "client-logo": {
-                    "fileId": "67a4418e3c562061c4f80df4",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4418e3c562061c4f80df4_Data%20Analyst.png",
+                    "fileId": "67a467c206f931cc32b15a2c",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a467c206f931cc32b15a2c_Data%20Analyst.png",
                     "alt": null
                   }
                 }
@@ -451,7 +451,7 @@ export const webflowResponse = [
                 "id": "676512a0439c1d92500c530f",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:58:48.711Z",
+                "lastUpdated": "2025-02-06T07:41:48.816Z",
                 "createdOn": "2024-12-20T06:45:52.301Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -462,8 +462,8 @@ export const webflowResponse = [
                   "name": "Product Owners",
                   "slug": "product-owners",
                   "client-logo": {
-                    "fileId": "67a44184aacbbdd278895ee4",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a44184aacbbdd278895ee4_Product%20Owners.png",
+                    "fileId": "67a46690d71f708a89637de6",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a46690d71f708a89637de6_Product%20Owners.png",
                     "alt": null
                   }
                 }
@@ -472,7 +472,7 @@ export const webflowResponse = [
                 "id": "676512ee021b07f4e156ea98",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:58:25.488Z",
+                "lastUpdated": "2025-02-06T07:36:22.565Z",
                 "createdOn": "2024-12-20T06:47:10.275Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -483,8 +483,8 @@ export const webflowResponse = [
                   "name": "Partnerships teams",
                   "slug": "partnerships-teams",
                   "client-logo": {
-                    "fileId": "67a441682447c0c7337795e5",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441682447c0c7337795e5_Partnerships%20teams.png",
+                    "fileId": "67a46655019d86cdbfe1162f",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a46655019d86cdbfe1162f_Partnerships%20teams.png",
                     "alt": null
                   }
                 }
@@ -493,7 +493,7 @@ export const webflowResponse = [
                 "id": "676512c7a910d237d117779c",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-02-06T04:58:37.157Z",
+                "lastUpdated": "2025-02-06T07:36:33.633Z",
                 "createdOn": "2024-12-20T06:46:31.115Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -504,8 +504,8 @@ export const webflowResponse = [
                   "name": "Acquisition Marketers",
                   "slug": "acquisition-marketers",
                   "client-logo": {
-                    "fileId": "67a4417923b3b3c90c060f67",
-                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4417923b3b3c90c060f67_Acquisition%20Marketers.png",
+                    "fileId": "67a4667ca04b22536a6901bb",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4667ca04b22536a6901bb_Acquisition%20Marketers.png",
                     "alt": null
                   }
                 }
