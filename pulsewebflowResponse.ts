@@ -264,7 +264,7 @@ export const webflowResponse = [
           "id": "67582cc3a114e668a0542188",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-20T10:34:19.755Z",
+          "lastUpdated": "2025-02-06T06:21:29.595Z",
           "createdOn": "2024-12-10T11:57:55.123Z",
           "isArchived": false,
           "isDraft": false,
@@ -272,7 +272,197 @@ export const webflowResponse = [
             "product-name": "Pulse",
             "name": "Pulse_select_preference_page",
             "slug": "pulse-select-preference-page",
-            "linked-client": []
+            "linked-client": [
+              {
+                "id": "67651124a666d09a5c46b0de",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T05:00:01.133Z",
+                "createdOn": "2024-12-20T06:39:32.615Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "CEO",
+                  "card-subtitle": "Identify key revenue drivers, monitor multi-channel performance, and align business goals with data insights.",
+                  "name": "CEO",
+                  "slug": "ceo",
+                  "client-logo": {
+                    "fileId": "67a441ce9e7f1bc1a7f5654a",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441ce9e7f1bc1a7f5654a_CEO.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "67651194ef9bcf3a5459fc71",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:59:50.049Z",
+                "createdOn": "2024-12-20T06:41:24.591Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "CMO/Head of Growth",
+                  "card-subtitle": "Pinpoint high-performing campaigns, optimize ad spend, and accelerate growth with unified marketing insights.",
+                  "name": "CMO/Head of Growth",
+                  "slug": "cmo-head-of-growth",
+                  "client-logo": {
+                    "fileId": "67a441c323b3b3c90c064937",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441c323b3b3c90c064937_CMOHead%20of%20Growth.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "676511c388c32ae231663983",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:59:36.677Z",
+                "createdOn": "2024-12-20T06:42:11.334Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "COO",
+                  "card-subtitle": "Monitor out-of-stock rates, inventory age, and supply chain metrics to ensure operational efficiency.",
+                  "name": "COO",
+                  "slug": "coo",
+                  "client-logo": {
+                    "fileId": "67a441b5698fe4c1ceb343a4",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441b5698fe4c1ceb343a4_COO.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "6765120aef9bcf3a545a625b",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:59:26.211Z",
+                "createdOn": "2024-12-20T06:43:22.068Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "CFO",
+                  "card-subtitle": "Evaluate profitability by channel, control platform fees, and improve financial planning with real-time insights.",
+                  "name": "CFO",
+                  "slug": "cfo",
+                  "client-logo": {
+                    "fileId": "67a441aa2447c0c73377c9b0",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441aa2447c0c73377c9b0_CFO.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "6765125d70437796d08b097a",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:59:16.969Z",
+                "createdOn": "2024-12-20T06:44:45.402Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "Retention Marketers",
+                  "card-subtitle": "Track customer behavior, reduce churn, and enhance lifetime value with retention-focused cohort analysis.",
+                  "name": "Retention Marketers",
+                  "slug": "retention-marketers",
+                  "client-logo": {
+                    "fileId": "67a441a1810c42fd526e449e",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441a1810c42fd526e449e_Retention%20Marketers.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "676512791cc2d8ccffaae05e",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:58:58.264Z",
+                "createdOn": "2024-12-20T06:45:13.097Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "Data Analyst",
+                  "card-subtitle": "Automate reporting processes, uncover insights faster, and empower teams with ready-to-use, actionable dashboards.",
+                  "name": "Data Analyst",
+                  "slug": "data-analyst",
+                  "client-logo": {
+                    "fileId": "67a4418e3c562061c4f80df4",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4418e3c562061c4f80df4_Data%20Analyst.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "676512a0439c1d92500c530f",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:58:48.711Z",
+                "createdOn": "2024-12-20T06:45:52.301Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "Product Owners",
+                  "card-subtitle": "Analyze product sales, optimize pricing strategies, and improve SKU performance across multiple channels.",
+                  "name": "Product Owners",
+                  "slug": "product-owners",
+                  "client-logo": {
+                    "fileId": "67a44184aacbbdd278895ee4",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a44184aacbbdd278895ee4_Product%20Owners.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "676512c7a910d237d117779c",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:58:37.157Z",
+                "createdOn": "2024-12-20T06:46:31.115Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "Acquisition Marketers",
+                  "card-subtitle": "Measure campaign ROI in real time, refine targeting strategies, and maximize customer acquisition efficiency.",
+                  "name": "Acquisition Marketers",
+                  "slug": "acquisition-marketers",
+                  "client-logo": {
+                    "fileId": "67a4417923b3b3c90c060f67",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4417923b3b3c90c060f67_Acquisition%20Marketers.png",
+                    "alt": null
+                  }
+                }
+              },
+              {
+                "id": "676512ee021b07f4e156ea98",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2025-02-06T04:58:25.488Z",
+                "createdOn": "2024-12-20T06:47:10.275Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-type": "Personas",
+                  "card-title": "Partnerships teams",
+                  "card-subtitle": "Assess partnership ROI, identify collaboration opportunities, and drive growth through targeted initiatives",
+                  "name": "Partnerships teams",
+                  "slug": "partnerships-teams",
+                  "client-logo": {
+                    "fileId": "67a441682447c0c7337795e5",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441682447c0c7337795e5_Partnerships%20teams.png",
+                    "alt": null
+                  }
+                }
+              }
+            ]
           }
         },
         {
@@ -325,7 +515,7 @@ export const webflowResponse = [
                 "id": "67651124a666d09a5c46b0de",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:40:10.503Z",
+                "lastUpdated": "2025-02-06T05:00:01.133Z",
                 "createdOn": "2024-12-20T06:39:32.615Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -334,14 +524,19 @@ export const webflowResponse = [
                   "card-title": "CEO",
                   "card-subtitle": "Identify key revenue drivers, monitor multi-channel performance, and align business goals with data insights.",
                   "name": "CEO",
-                  "slug": "ceo"
+                  "slug": "ceo",
+                  "client-logo": {
+                    "fileId": "67a441ce9e7f1bc1a7f5654a",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441ce9e7f1bc1a7f5654a_CEO.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "67651194ef9bcf3a5459fc71",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:41:24.591Z",
+                "lastUpdated": "2025-02-06T04:59:50.049Z",
                 "createdOn": "2024-12-20T06:41:24.591Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -350,14 +545,19 @@ export const webflowResponse = [
                   "card-title": "CMO/Head of Growth",
                   "card-subtitle": "Pinpoint high-performing campaigns, optimize ad spend, and accelerate growth with unified marketing insights.",
                   "name": "CMO/Head of Growth",
-                  "slug": "cmo-head-of-growth"
+                  "slug": "cmo-head-of-growth",
+                  "client-logo": {
+                    "fileId": "67a441c323b3b3c90c064937",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441c323b3b3c90c064937_CMOHead%20of%20Growth.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "676511c388c32ae231663983",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:42:11.334Z",
+                "lastUpdated": "2025-02-06T04:59:36.677Z",
                 "createdOn": "2024-12-20T06:42:11.334Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -366,14 +566,19 @@ export const webflowResponse = [
                   "card-title": "COO",
                   "card-subtitle": "Monitor out-of-stock rates, inventory age, and supply chain metrics to ensure operational efficiency.",
                   "name": "COO",
-                  "slug": "coo"
+                  "slug": "coo",
+                  "client-logo": {
+                    "fileId": "67a441b5698fe4c1ceb343a4",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441b5698fe4c1ceb343a4_COO.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "6765120aef9bcf3a545a625b",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:43:22.068Z",
+                "lastUpdated": "2025-02-06T04:59:26.211Z",
                 "createdOn": "2024-12-20T06:43:22.068Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -382,14 +587,19 @@ export const webflowResponse = [
                   "card-title": "CFO",
                   "card-subtitle": "Evaluate profitability by channel, control platform fees, and improve financial planning with real-time insights.",
                   "name": "CFO",
-                  "slug": "cfo"
+                  "slug": "cfo",
+                  "client-logo": {
+                    "fileId": "67a441aa2447c0c73377c9b0",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441aa2447c0c73377c9b0_CFO.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "6765125d70437796d08b097a",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:44:45.402Z",
+                "lastUpdated": "2025-02-06T04:59:16.969Z",
                 "createdOn": "2024-12-20T06:44:45.402Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -398,14 +608,19 @@ export const webflowResponse = [
                   "card-title": "Retention Marketers",
                   "card-subtitle": "Track customer behavior, reduce churn, and enhance lifetime value with retention-focused cohort analysis.",
                   "name": "Retention Marketers",
-                  "slug": "retention-marketers"
+                  "slug": "retention-marketers",
+                  "client-logo": {
+                    "fileId": "67a441a1810c42fd526e449e",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441a1810c42fd526e449e_Retention%20Marketers.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "676512791cc2d8ccffaae05e",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:45:13.097Z",
+                "lastUpdated": "2025-02-06T04:58:58.264Z",
                 "createdOn": "2024-12-20T06:45:13.097Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -414,14 +629,19 @@ export const webflowResponse = [
                   "card-title": "Data Analyst",
                   "card-subtitle": "Automate reporting processes, uncover insights faster, and empower teams with ready-to-use, actionable dashboards.",
                   "name": "Data Analyst",
-                  "slug": "data-analyst"
+                  "slug": "data-analyst",
+                  "client-logo": {
+                    "fileId": "67a4418e3c562061c4f80df4",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4418e3c562061c4f80df4_Data%20Analyst.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "676512a0439c1d92500c530f",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:45:52.301Z",
+                "lastUpdated": "2025-02-06T04:58:48.711Z",
                 "createdOn": "2024-12-20T06:45:52.301Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -430,14 +650,19 @@ export const webflowResponse = [
                   "card-title": "Product Owners",
                   "card-subtitle": "Analyze product sales, optimize pricing strategies, and improve SKU performance across multiple channels.",
                   "name": "Product Owners",
-                  "slug": "product-owners"
+                  "slug": "product-owners",
+                  "client-logo": {
+                    "fileId": "67a44184aacbbdd278895ee4",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a44184aacbbdd278895ee4_Product%20Owners.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "676512ee021b07f4e156ea98",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T08:27:48.150Z",
+                "lastUpdated": "2025-02-06T04:58:25.488Z",
                 "createdOn": "2024-12-20T06:47:10.275Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -446,14 +671,19 @@ export const webflowResponse = [
                   "card-title": "Partnerships teams",
                   "card-subtitle": "Assess partnership ROI, identify collaboration opportunities, and drive growth through targeted initiatives",
                   "name": "Partnerships teams",
-                  "slug": "partnerships-teams"
+                  "slug": "partnerships-teams",
+                  "client-logo": {
+                    "fileId": "67a441682447c0c7337795e5",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a441682447c0c7337795e5_Partnerships%20teams.png",
+                    "alt": null
+                  }
                 }
               },
               {
                 "id": "676512c7a910d237d117779c",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2024-12-20T06:46:31.115Z",
+                "lastUpdated": "2025-02-06T04:58:37.157Z",
                 "createdOn": "2024-12-20T06:46:31.115Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -462,7 +692,12 @@ export const webflowResponse = [
                   "card-title": "Acquisition Marketers",
                   "card-subtitle": "Measure campaign ROI in real time, refine targeting strategies, and maximize customer acquisition efficiency.",
                   "name": "Acquisition Marketers",
-                  "slug": "acquisition-marketers"
+                  "slug": "acquisition-marketers",
+                  "client-logo": {
+                    "fileId": "67a4417923b3b3c90c060f67",
+                    "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4417923b3b3c90c060f67_Acquisition%20Marketers.png",
+                    "alt": null
+                  }
                 }
               }
             ],
