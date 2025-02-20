@@ -314,7 +314,7 @@ export const webflowResponse = [
                 "id": "67502dde3f7ed3b8d6fad3bc",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-09T10:31:54.698Z",
+                "lastUpdated": "2025-02-19T07:01:37.470Z",
                 "createdOn": "2024-12-04T10:24:30.122Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -326,8 +326,8 @@ export const webflowResponse = [
                   "slug": "globalsignup-pulse-card1",
                   "card-logo": [
                     {
-                      "fileId": "677fa59583e3827a04f882f0",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa59583e3827a04f882f0_Pulse%20Green%20Analysis.svg",
+                      "fileId": "67b581cd6d8ea8035c23eeac",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67b581cd6d8ea8035c23eeac_Pulse%20Analysis.svg",
                       "alt": null
                     }
                   ],
@@ -339,7 +339,7 @@ export const webflowResponse = [
                 "id": "67502e057a1a7e2fc2e8ba97",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-09T10:32:13.979Z",
+                "lastUpdated": "2025-02-19T07:01:21.185Z",
                 "createdOn": "2024-12-04T10:25:09.004Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -350,8 +350,8 @@ export const webflowResponse = [
                   "card-description": "Get tailored insights and dashboards for your unique business needs",
                   "card-logo": [
                     {
-                      "fileId": "677fa5a778cd3e8dc4ff89a4",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa5a778cd3e8dc4ff89a4_Pulse%20Green%20Database.svg",
+                      "fileId": "67b581bdeb50c012bb8beed5",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67b581bdeb50c012bb8beed5_Pulse%20Database.svg",
                       "alt": null
                     }
                   ],
@@ -364,7 +364,7 @@ export const webflowResponse = [
                 "id": "67502e2d1affd684b4513333",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-09T10:32:59.120Z",
+                "lastUpdated": "2025-02-19T07:01:05.758Z",
                 "createdOn": "2024-12-04T10:25:49.439Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -375,8 +375,8 @@ export const webflowResponse = [
                   "name": "Globalsignup_pulse_card3",
                   "card-logo": [
                     {
-                      "fileId": "677fa5bdf3edcd84d6012ea8",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa5bdf3edcd84d6012ea8_Pulse%20Green%20Forecasting.svg",
+                      "fileId": "67b581ad154dc62871ae30cc",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67b581ad154dc62871ae30cc_Pulse%20Forecasting.svg",
                       "alt": null
                     }
                   ],
@@ -1029,7 +1029,7 @@ export const webflowResponse = [
                 "id": "67504e2ff1934367531fdbf0",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-09T10:38:25.592Z",
+                "lastUpdated": "2025-02-19T07:00:43.459Z",
                 "createdOn": "2024-12-04T12:42:23.281Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -1040,8 +1040,8 @@ export const webflowResponse = [
                   "name": "Globalsignup_pulse_product_card",
                   "card-logo": [
                     {
-                      "fileId": "677fa71d870abc1d12723c00",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677fa71d870abc1d12723c00_Pulse%20Green%20Card.svg",
+                      "fileId": "67b58197fb64b273fd6589f5",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67b58197fb64b273fd6589f5_pulseCard.svg",
                       "alt": null
                     }
                   ],
