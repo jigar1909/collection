@@ -14,7 +14,7 @@ export const webflowResponse = [
           "id": "6756cd39a5e2779fca274f83",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2025-01-06T12:47:43.498Z",
+          "lastUpdated": "2025-02-25T11:30:02.363Z",
           "createdOn": "2024-12-09T10:58:01.792Z",
           "isArchived": false,
           "isDraft": false,
@@ -223,7 +223,8 @@ export const webflowResponse = [
                 }
               }
             ],
-            "page-note": "To speed up your onboarding, please have your required data source credentials handy"
+            "page-note": "To speed up your onboarding, please have your required data source credentials handy",
+            "contact-url": "https://calendly.com/sarasanalytics-support/30min"
           }
         },
         {
