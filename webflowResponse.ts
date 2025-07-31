@@ -1003,7 +1003,7 @@ export const webflowResponse = [
                 "id": "675044481da846992ea44f70",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-07-25T09:41:10.936Z",
+                "lastUpdated": "2025-07-30T11:32:02.427Z",
                 "createdOn": "2024-12-04T12:00:08.936Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -1013,15 +1013,15 @@ export const webflowResponse = [
                   "card-description": "ELT platform to move your data from 200+ sources and transform into analytics-ready tables",
                   "name": "Globalsignup_daton_product_card",
                   "slug": "globalsignup-daton-product-card",
+                  "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
+                  "product-name": "Daton",
                   "card-logo": [
                     {
-                      "fileId": "685a56468c6b59eb37b9a8ac",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/685a56468c6b59eb37b9a8ac_Daton%20Logomark%20Product%20Color.svg",
+                      "fileId": "688a02a76e91cd1f8fec2b40",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/688a02a76e91cd1f8fec2b40_daton_logo_new.svg",
                       "alt": null
                     }
                   ],
-                  "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
-                  "product-name": "Daton",
                   "card-type": "With Primary link only"
                 }
               },
@@ -1029,7 +1029,7 @@ export const webflowResponse = [
                 "id": "67504e2ff1934367531fdbf0",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-06-24T07:41:23.205Z",
+                "lastUpdated": "2025-07-30T11:31:36.790Z",
                 "createdOn": "2024-12-04T12:42:23.281Z",
                 "isArchived": false,
                 "isDraft": false,
@@ -1043,8 +1043,8 @@ export const webflowResponse = [
                   "product-name": "Pulse",
                   "card-logo": [
                     {
-                      "fileId": "685a569887f1e36629ce878c",
-                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/685a569887f1e36629ce878c_Pulse%20Logomark%20Product%20Color.svg",
+                      "fileId": "688a029097a7a9f8486abbc7",
+                      "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/688a029097a7a9f8486abbc7_pulse_logo_new.svg",
                       "alt": null
                     }
                   ],
