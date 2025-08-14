@@ -1059,41 +1059,43 @@ export const webflowResponse = [
           "id": "6761499f1fc72077a4e0642c",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-17T11:53:06.190Z",
+          "lastUpdated": "2025-08-13T09:22:23.275Z",
           "createdOn": "2024-12-17T09:51:27.510Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "page-title": "Welcome to",
-            "page-subtitle": "Daton",
+            "page-subtitle": "Saras Daton",
             "product-name": "Daton",
             "name": "Daton Splash Screen Page",
             "slug": "daton-splash-screen-page",
-            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525"
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
+            "page-subtitle-2-optional": "Your Unified Data Platform"
           }
         },
         {
           "id": "676149b9a735d3af9c0a5ba3",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-26T06:10:41.926Z",
+          "lastUpdated": "2025-08-13T09:22:46.112Z",
           "createdOn": "2024-12-17T09:51:53.114Z",
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
             "page-title": "Welcome to",
-            "page-subtitle": "Pulse",
+            "page-subtitle": "Saras Pulse",
             "product-name": "Pulse",
             "name": "Pulse Splash Screen Page",
             "slug": "pulse-splash-screen-page",
-            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525"
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
+            "page-subtitle-2-optional": "Your Turn-key Reporting Solution"
           }
         },
         {
           "id": "676149737d4c0cf325a64bce",
           "cmsLocaleId": "672882dbaf15942b1d3d3da6",
           "lastPublished": null,
-          "lastUpdated": "2024-12-26T06:10:42.428Z",
+          "lastUpdated": "2025-08-13T09:22:01.336Z",
           "createdOn": "2024-12-17T09:50:43.498Z",
           "isArchived": false,
           "isDraft": false,
@@ -1103,7 +1105,8 @@ export const webflowResponse = [
             "product-name": "Saras",
             "name": "Saras Splash Screen Page",
             "slug": "saras-splash-screen-page",
-            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525"
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
+            "page-subtitle-2-optional": "Your Swiss Army Knife of Data"
           }
         }
       ],
