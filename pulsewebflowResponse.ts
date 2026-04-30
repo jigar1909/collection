@@ -8,7 +8,7 @@ export const webflowResponse = [
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
-      "name": "Pulse",
+      "product-pages": null,
       "pulse-onboarding-product-pages": [
         {
           "id": "6756cd39a5e2779fca274f83",
@@ -19,11 +19,37 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "product-name": "Pulse",
-            "name": "Pulse_welcome_page",
-            "page-subtitle-2-optional": "Empowering <b>200+ brands</b> to unlock data-driven growth:",
-            "page-subtitle": "Let's get you set up effortlessly so you can unlock insights tailored to your unique needs.",
+            "page-type-identifier": null,
             "page-title": "Welcome to Pulse — <span>One unified platform for all your data needs</span>",
+            "page-subtitle": "Let's get you set up effortlessly so you can unlock insights tailored to your unique needs.",
+            "page-subtitle-2-optional": "Empowering <b>200+ brands</b> to unlock data-driven growth:",
+            "linked-card-2": [
+              {
+                "id": "675699d21319a327d4c8c9aa",
+                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
+                "lastPublished": null,
+                "lastUpdated": "2024-12-17T10:34:12.539Z",
+                "createdOn": "2024-12-09T07:18:42.249Z",
+                "isArchived": false,
+                "isDraft": false,
+                "fieldData": {
+                  "card-title": "Customise your Experience in a Few Simple Steps",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
+                  "card-description": null,
+                  "card-pointers": "<p id=\"\">Tell us about your brand and business goals,Choose the features that best suit your needs,Connect your preferred data sources,</p><p id=\"\">‍</p>",
+                  "card-logo": null,
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": "Pulse Onboarding Welcome Page",
+                  "name": "Pulse_Onboarding_ WelcomePage_GuideCard",
+                  "slug": "pulse-onboarding-welcomepage-guidecard",
+                  "card-type": "Signup Card"
+                }
+              }
+            ],
             "linked-client": [
               {
                 "id": "67695bf1f2abd948e4c0f480",
@@ -38,13 +64,15 @@ export const webflowResponse = [
                   "card-title": "Lindsey Johnson",
                   "card-subtitle": "CEO",
                   "card-description": "Saras team is a jack of all trades and an extension of our growth team. Beyond helping us with customized data tracking and dashboards, they guided us a lot. We can't recommend them enough!",
-                  "name": "Weezie",
-                  "slug": "weezie-testimonial",
                   "client-logo": {
                     "fileId": "677d21fb31bcda5ec44c5d29",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21fb31bcda5ec44c5d29_WEEZIE_LOGO.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Weezie",
+                  "slug": "weezie-testimonial"
                 }
               },
               {
@@ -60,13 +88,15 @@ export const webflowResponse = [
                   "card-title": "Hayden Hill London",
                   "card-subtitle": "Head of Trading",
                   "card-description": "It's lovely to see our Shopify and Amazon sales together, we can look at one product across different platforms to see its performance. Because there's really no way to see that in Amazon. ",
-                  "name": "Hayden Hill London",
-                  "slug": "hayden-hill-london",
                   "client-logo": {
                     "fileId": "677d21ec3bdb630c82425901",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21ec3bdb630c82425901_HAYDENHILL_LOGO.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Hayden Hill London",
+                  "slug": "hayden-hill-london"
                 }
               },
               {
@@ -82,13 +112,15 @@ export const webflowResponse = [
                   "card-title": "Alex Faherty ",
                   "card-subtitle": "CEO",
                   "card-description": "Saras's customer 360 provided us Advanced Customer Cohorts with CLTV analysis across segments and channels, helping us target the right customers through personalised communication. The forecasting and BI Dashboards helped us measure the right data. ",
-                  "name": "Faherty",
-                  "slug": "faherty-testimonial",
                   "client-logo": {
                     "fileId": "677d22056271f6b54d3ec409",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d22056271f6b54d3ec409_FAHERTY%20LOGO.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Faherty",
+                  "slug": "faherty-testimonial"
                 }
               },
               {
@@ -104,13 +136,15 @@ export const webflowResponse = [
                   "card-title": "Josh Holley",
                   "card-subtitle": "COO & CFO",
                   "card-description": "Saras built a tracking system for us to identify recently churned high value customers. Helping our customer success team launch hyper-targeted outreach program for these customers that resulted in a significant uptick in retention. ",
-                  "name": "BPN",
-                  "slug": "bpn",
                   "client-logo": {
                     "fileId": "677d21df2bb55c126c1b6d52",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21df2bb55c126c1b6d52_BPN_LOGO.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "BPN",
+                  "slug": "bpn"
                 }
               },
               {
@@ -126,13 +160,15 @@ export const webflowResponse = [
                   "card-title": "Nadine Elway (Maloney)",
                   "card-subtitle": "Director of BI & Data Engineering",
                   "card-description": "I’m constantly inspired by the expertise Saras team brings to the table. It’s truly rewarding to work with such skilled professionals and to continue learning and exploring from them.",
-                  "name": "True Classic",
-                  "slug": "true-classic",
                   "client-logo": {
                     "fileId": "677d21c9bd303a22adb344b2",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21c9bd303a22adb344b2_TRUECLASSIC_LOGO.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "True Classic",
+                  "slug": "true-classic"
                 }
               },
               {
@@ -148,13 +184,15 @@ export const webflowResponse = [
                   "card-title": "Kevin Dalaeli",
                   "card-subtitle": "President & COO",
                   "card-description": "Saras Analytics is a Swiss army knife which is a must-have for any omnichannel brand's success. With their custom analytics solution, we went from working on the data to making decisions based on the data!",
-                  "name": "KOS",
-                  "slug": "kos-testimonial",
                   "client-logo": {
                     "fileId": "677d21be44398a30b566736e",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21be44398a30b566736e_KOS.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "KOS",
+                  "slug": "kos-testimonial"
                 }
               },
               {
@@ -170,13 +208,15 @@ export const webflowResponse = [
                   "card-title": "James (Riley) Ambrose",
                   "card-subtitle": "Director of Product Management",
                   "card-description": "Saras helped us resolve our GA data challenges by conducting a thorough 3-step audit of our setup and GA4 properties. Then, their solution helped us get the right configurational changes required, consistent page and goal tracking. ",
-                  "name": "Mack Weldon",
-                  "slug": "mack-weldon",
                   "client-logo": {
                     "fileId": "677d21a8f509a4639c97f876",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d21a8f509a4639c97f876_MACK%20WELDON%20_%20LOGO.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Mack Weldon",
+                  "slug": "mack-weldon"
                 }
               },
               {
@@ -192,39 +232,24 @@ export const webflowResponse = [
                   "card-title": "Stephen Hou",
                   "card-subtitle": "Manager, Digital Data Analytics",
                   "card-description": "Saras provided us with an end-to-end data solution, their data acted as a single source of truth, powering many strategic decisions. They also helped evolve our dashboard by recommending solutions or new views that weren’t originally requested.",
-                  "name": "Murad Testimonial",
-                  "slug": "murad-testimonial",
                   "client-logo": {
                     "fileId": "677d219a8495612caa2b1f3e",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/677d219a8495612caa2b1f3e_Murad.svg",
                     "alt": null
-                  }
-                }
-              }
-            ],
-            "slug": "pulse-welcome-page",
-            "linked-card-2": [
-              {
-                "id": "675699d21319a327d4c8c9aa",
-                "cmsLocaleId": "672882dbaf15942b1d3d3da6",
-                "lastPublished": null,
-                "lastUpdated": "2024-12-17T10:34:12.539Z",
-                "createdOn": "2024-12-09T07:18:42.249Z",
-                "isArchived": false,
-                "isDraft": false,
-                "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "card-title": "Customise your Experience in a Few Simple Steps",
-                  "card-pointers": "<p id=\"\">Tell us about your brand and business goals,Choose the features that best suit your needs,Connect your preferred data sources,</p><p id=\"\">‍</p>",
-                  "page-name-internal-identifier": "Pulse Onboarding Welcome Page",
-                  "name": "Pulse_Onboarding_ WelcomePage_GuideCard",
-                  "slug": "pulse-onboarding-welcomepage-guidecard",
-                  "card-type": "Signup Card"
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Murad Testimonial",
+                  "slug": "murad-testimonial"
                 }
               }
             ],
             "page-note": "To speed up your onboarding, please have your required data source credentials handy",
-            "contact-url": "https://go.sarasanalytics.com/meetings/pranav-hundoo"
+            "page-image": null,
+            "product-name": "Pulse",
+            "contact-url": "https://go.sarasanalytics.com/meetings/pranav-hundoo",
+            "name": "Pulse_welcome_page",
+            "slug": "pulse-welcome-page"
           }
         },
         {
@@ -236,12 +261,18 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": null,
             "page-title": "Charting Your Journey to Value Generation",
+            "page-subtitle": null,
             "page-subtitle-2-optional": "Brand name will be used consistently throughout Pulse; please enter a name that is most appropriate",
+            "linked-card-2": null,
+            "linked-client": [],
+            "page-note": null,
+            "page-image": null,
             "product-name": "Pulse",
+            "contact-url": null,
             "name": "Pulse_brand_selection_page",
-            "slug": "pulse-onboarding-brand-selection-page",
-            "linked-client": []
+            "slug": "pulse-onboarding-brand-selection-page"
           }
         },
         {
@@ -253,10 +284,16 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": null,
             "page-title": "Choose the features that you would like to activate",
             "page-subtitle": "Based on your selected features and preferences, we'll recommend the most relevant dashboards to support your goals",
             "page-subtitle-2-optional": "Having trouble deciding which features are right for you? Reach out to us!",
+            "linked-card-2": null,
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
             "product-name": "Pulse",
+            "contact-url": null,
             "name": "Pulse_dashboard_page",
             "slug": "pulse-usecases-dashboard-page"
           }
@@ -270,10 +307,18 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": null,
+            "page-title": null,
+            "page-subtitle": null,
+            "page-subtitle-2-optional": null,
+            "linked-card-2": null,
+            "linked-client": [],
+            "page-note": null,
+            "page-image": null,
             "product-name": "Pulse",
+            "contact-url": null,
             "name": "Pulse_select_preference_page",
-            "slug": "pulse-select-preference-page",
-            "linked-client": []
+            "slug": "pulse-select-preference-page"
           }
         },
         {
@@ -285,10 +330,16 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": null,
             "page-title": "Almost there, choose the sources that you would like to connect",
             "page-subtitle": "Connecting all the relevant sources may take some time, but the valuable insights you'll gain will be well worth it :)",
             "page-subtitle-2-optional": "Having trouble setting up integrations? Contact us for assistance",
+            "linked-card-2": null,
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
             "product-name": "Pulse",
+            "contact-url": null,
             "name": "Pulse_source_page",
             "slug": "pulse-source-page"
           }
@@ -302,10 +353,16 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": null,
             "page-title": "Select the use case that best align with your interests",
             "page-subtitle": "Based on your selected use case and preferences, we'll recommend the most relevant dashboards to support your goals",
             "page-subtitle-2-optional": "Unsure which use case to select? No worries—we’re here to assist you!",
+            "linked-card-2": null,
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
             "product-name": "Pulse",
+            "contact-url": null,
             "name": "Pulse_usecases_screen_page",
             "slug": "pulse-usecases-screen-page"
           }
@@ -319,8 +376,11 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "product-name": "Pulse",
-            "name": "Pulse_organization_type_page",
+            "page-type-identifier": null,
+            "page-title": null,
+            "page-subtitle": null,
+            "page-subtitle-2-optional": "Pulse is designed for...",
+            "linked-card-2": null,
             "linked-client": [
               {
                 "id": "67651124a666d09a5c46b0de",
@@ -334,13 +394,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "CEO",
                   "card-subtitle": "Identify key revenue drivers, monitor multi-channel performance, and align business goals with data insights.",
-                  "name": "CEO",
-                  "slug": "ceo",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a46826ca25612282f97675",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a46826ca25612282f97675_CEO.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "CEO",
+                  "slug": "ceo"
                 }
               },
               {
@@ -355,13 +418,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "CMO/Head of Growth",
                   "card-subtitle": "Pinpoint high-performing campaigns, optimize ad spend, and accelerate growth with unified marketing insights.",
-                  "name": "CMO/Head of Growth",
-                  "slug": "cmo-head-of-growth",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a4681ae40f1c87abeb9e9a",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4681ae40f1c87abeb9e9a_CMOHead%20of%20Growth.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "CMO/Head of Growth",
+                  "slug": "cmo-head-of-growth"
                 }
               },
               {
@@ -376,13 +442,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "COO",
                   "card-subtitle": "Monitor out-of-stock rates, inventory age, and supply chain metrics to ensure operational efficiency.",
-                  "name": "COO",
-                  "slug": "coo",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a467e62393734d2f6e3c78",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a467e62393734d2f6e3c78_COO.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "COO",
+                  "slug": "coo"
                 }
               },
               {
@@ -397,13 +466,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "CFO",
                   "card-subtitle": "Evaluate profitability by channel, control platform fees, and improve financial planning with real-time insights.",
-                  "name": "CFO",
-                  "slug": "cfo",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a4683040c75027d23935f9",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4683040c75027d23935f9_CFO.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "CFO",
+                  "slug": "cfo"
                 }
               },
               {
@@ -418,13 +490,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "Retention Marketers",
                   "card-subtitle": "Track customer behavior, reduce churn, and enhance lifetime value with retention-focused cohort analysis.",
-                  "name": "Retention Marketers",
-                  "slug": "retention-marketers",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a467cd6fd8ec2f355a18c2",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a467cd6fd8ec2f355a18c2_Retention%20Marketers.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Retention Marketers",
+                  "slug": "retention-marketers"
                 }
               },
               {
@@ -439,13 +514,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "Data Analyst",
                   "card-subtitle": "Automate reporting processes, uncover insights faster, and empower teams with ready-to-use, actionable dashboards.",
-                  "name": "Data Analyst",
-                  "slug": "data-analyst",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a467c206f931cc32b15a2c",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a467c206f931cc32b15a2c_Data%20Analyst.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Data Analyst",
+                  "slug": "data-analyst"
                 }
               },
               {
@@ -460,13 +538,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "Product Owners",
                   "card-subtitle": "Analyze product sales, optimize pricing strategies, and improve SKU performance across multiple channels.",
-                  "name": "Product Owners",
-                  "slug": "product-owners",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a46690d71f708a89637de6",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a46690d71f708a89637de6_Product%20Owners.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Product Owners",
+                  "slug": "product-owners"
                 }
               },
               {
@@ -481,13 +562,16 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "Partnerships teams",
                   "card-subtitle": "Assess partnership ROI, identify collaboration opportunities, and drive growth through targeted initiatives",
-                  "name": "Partnerships teams",
-                  "slug": "partnerships-teams",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a46655019d86cdbfe1162f",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a46655019d86cdbfe1162f_Partnerships%20teams.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Partnerships teams",
+                  "slug": "partnerships-teams"
                 }
               },
               {
@@ -502,21 +586,29 @@ export const webflowResponse = [
                   "card-type": "Personas",
                   "card-title": "Acquisition Marketers",
                   "card-subtitle": "Measure campaign ROI in real time, refine targeting strategies, and maximize customer acquisition efficiency.",
-                  "name": "Acquisition Marketers",
-                  "slug": "acquisition-marketers",
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "67a4667ca04b22536a6901bb",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/67a4667ca04b22536a6901bb_Acquisition%20Marketers.png",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Acquisition Marketers",
+                  "slug": "acquisition-marketers"
                 }
               }
             ],
-            "slug": "pulse-organization-type-page",
-            "page-subtitle-2-optional": "Pulse is designed for..."
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Pulse",
+            "contact-url": null,
+            "name": "Pulse_organization_type_page",
+            "slug": "pulse-organization-type-page"
           }
         }
       ],
+      "name": "Pulse",
       "slug": "pulse-onboarding-flow"
     }
   }
