@@ -8,7 +8,6 @@ export const webflowResponse = [
     "isArchived": false,
     "isDraft": false,
     "fieldData": {
-      "name": "Saras",
       "product-pages": [
         {
           "id": "675180fa7a53a8d14cbe7c13",
@@ -20,8 +19,9 @@ export const webflowResponse = [
           "isDraft": false,
           "fieldData": {
             "page-type-identifier": "bc15e2d7700c5fb96db2fcd1ceb5cbee",
-            "product-name": "Daton",
-            "name": "Daton_login_page",
+            "page-title": null,
+            "page-subtitle": null,
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "6751709eb220cb639cbcae16",
@@ -32,16 +32,29 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "e2b1708271f9fab690edf9972ba40c79",
                   "card-title": "Welcome Back! ",
+                  "card-type-internal-identifier": "e2b1708271f9fab690edf9972ba40c79",
                   "card-subtitle": "You are one step away from Moving Your Data to desired Warehouse ",
+                  "card-description": null,
+                  "card-pointers": null,
+                  "card-logo": null,
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
+                  "product-name": "Daton",
                   "name": "GlobalLogin_daton_card",
                   "slug": "globallogin-daton-card",
-                  "product-name": "Daton",
                   "card-type": "Plain Card"
                 }
               }
             ],
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Daton",
+            "name": "Daton_login_page",
             "slug": "daton-login-page"
           }
         },
@@ -55,11 +68,9 @@ export const webflowResponse = [
           "isDraft": false,
           "fieldData": {
             "page-type-identifier": "e67c8aab4f431877e3428c4c18f0a5ea",
-            "product-name": "Daton",
-            "name": "Daton_signup_page",
-            "page-subtitle": "250+ Ecommerce Brands and Agencies Love Saras ",
             "page-title": "Your Ecommerce Data Replication and Unification Starts Here",
-            "slug": "daton-signup-page-2",
+            "page-subtitle": "250+ Ecommerce Brands and Agencies Love Saras ",
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "674877a7f6cca8d065971fc9",
@@ -70,11 +81,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "name": "Globalsignup_daton_card1",
                   "card-title": "Saras Daton",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Move data from 200+ sources and transform them into analytics ready tables",
-                  "slug": "globalsignup-daton-card1",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677e18360d834993933667af",
@@ -82,7 +93,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
                   "product-name": "Daton",
+                  "name": "Globalsignup_daton_card1",
+                  "slug": "globalsignup-daton-card1",
                   "card-type": "Signup Card"
                 }
               },
@@ -95,10 +113,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "name": "Globalsignup_daton_card2",
                   "card-title": "Saras Data Engineering",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Analyze data quickly and efficiently to shape your digital initiatives",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677e188c050c01899a3d7c6a",
@@ -106,8 +125,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-daton-card2",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
                   "product-name": "Daton",
+                  "name": "Globalsignup_daton_card2",
+                  "slug": "globalsignup-daton-card2",
                   "card-type": "Signup Card"
                 }
               },
@@ -120,10 +145,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
                   "card-title": "Saras Data Consulting",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Get a customized data solution with our expert consulting ",
-                  "name": "Globalsignup_daton_card3",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677e185b94f8a483ec053dd6",
@@ -131,8 +157,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-daton-card3",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
                   "product-name": "Daton",
+                  "name": "Globalsignup_daton_card3",
+                  "slug": "globalsignup-daton-card3",
                   "card-type": "Signup Card"
                 }
               }
@@ -147,15 +179,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "InnoSupps Logo",
-                  "slug": "innosupps",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777e101f0bc14516e218f4c",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e101f0bc14516e218f4c_Innosupps.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "InnoSupps"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "InnoSupps Logo",
+                  "slug": "innosupps"
                 }
               },
               {
@@ -167,15 +203,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Murad Logo",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777a3a5a6f1de3ca3856220",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777a3a5a6f1de3ca3856220_Murad.svg",
                     "alt": null
                   },
-                  "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "Murad"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Murad Logo",
+                  "slug": "murad"
                 }
               },
               {
@@ -187,15 +227,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Weezie Logo",
-                  "slug": "weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Weezie",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b6909ec0a3f943781d1f",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6909ec0a3f943781d1f_weezie.svg",
                     "alt": null
                   },
-                  "card-title": "Weezie",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Weezie Logo",
+                  "slug": "weezie"
                 }
               },
               {
@@ -207,15 +251,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sakara Logo",
-                  "slug": "sakara",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777e10f6bdb47d1f41092df",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e10f6bdb47d1f41092df_Sakara.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "Sakara"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Sakara Logo",
+                  "slug": "sakara"
                 }
               },
               {
@@ -227,15 +275,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "KOS logo",
-                  "slug": "kos",
-                  "card-title": "KOS",
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "KOS",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b6503c4f7c8fa3469db1",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6503c4f7c8fa3469db1_KOS.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "KOS logo",
+                  "slug": "kos"
                 }
               },
               {
@@ -249,16 +301,25 @@ export const webflowResponse = [
                 "fieldData": {
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
                   "card-title": "Earth Breeze",
-                  "name": "Earth Breeze Logo",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b67c19a4857877f8abdb",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b67c19a4857877f8abdb_Earth%20Breeeze.svg",
                     "alt": null
                   },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Earth Breeze Logo",
                   "slug": "earth-breeze"
                 }
               }
-            ]
+            ],
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Daton",
+            "name": "Daton_signup_page",
+            "slug": "daton-signup-page-2"
           }
         },
         {
@@ -271,9 +332,9 @@ export const webflowResponse = [
           "isDraft": false,
           "fieldData": {
             "page-type-identifier": "bc15e2d7700c5fb96db2fcd1ceb5cbee",
-            "product-name": "Pulse",
-            "name": "Pulse_login_page",
-            "slug": "pulse-login-page",
+            "page-title": null,
+            "page-subtitle": null,
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "675170bcd056e7653ef846c5",
@@ -284,17 +345,30 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "e2b1708271f9fab690edf9972ba40c79",
                   "card-title": "Welcome Back! ",
+                  "card-type-internal-identifier": "e2b1708271f9fab690edf9972ba40c79",
                   "card-subtitle": "You are one step away from Accessing your Insightful Business Dashboards ",
+                  "card-description": null,
+                  "card-pointers": null,
+                  "card-logo": null,
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
+                  "product-name": "Pulse",
                   "name": "GlobalLogin_pulse_card",
                   "slug": "globallogin-pulse-card",
-                  "product-name": "Pulse",
                   "card-type": "Plain Card"
                 }
               }
             ],
-            "linked-client": []
+            "linked-client": [],
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Pulse",
+            "name": "Pulse_login_page",
+            "slug": "pulse-login-page"
           }
         },
         {
@@ -307,8 +381,9 @@ export const webflowResponse = [
           "isDraft": false,
           "fieldData": {
             "page-type-identifier": "e67c8aab4f431877e3428c4c18f0a5ea",
-            "product-name": "Pulse",
-            "name": "Pulse_signup_page",
+            "page-title": "Start Understanding Customer Behaviors for Real",
+            "page-subtitle": "250+ Ecommerce Brands and Agencies Love Saras",
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "67502dde3f7ed3b8d6fad3bc",
@@ -319,11 +394,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
                   "card-title": "Saras Pulse",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "All-in-one dashboards to visualize, analyze, and optimize business performance ",
-                  "name": "Globalsignup_pulse_card1",
-                  "slug": "globalsignup-pulse-card1",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "67b581cd6d8ea8035c23eeac",
@@ -331,7 +406,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
                   "product-name": "Pulse",
+                  "name": "Globalsignup_pulse_card1",
+                  "slug": "globalsignup-pulse-card1",
                   "card-type": "Signup Card"
                 }
               },
@@ -344,10 +426,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "name": "Globalsignup_pulse_card2",
                   "card-title": "Custom Dashboards",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Get tailored insights and dashboards for your unique business needs",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "67b581bdeb50c012bb8beed5",
@@ -355,8 +438,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-pulse-card2",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
                   "product-name": "Pulse",
+                  "name": "Globalsignup_pulse_card2",
+                  "slug": "globalsignup-pulse-card2",
                   "card-type": "Signup Card"
                 }
               },
@@ -369,10 +458,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
                   "card-title": "Saras Data Consulting ",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Get a customized data solution with our expert consulting ",
-                  "name": "Globalsignup_pulse_card3",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "67b581ad154dc62871ae30cc",
@@ -380,8 +470,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-pulse-card3",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
                   "product-name": "Pulse",
+                  "name": "Globalsignup_pulse_card3",
+                  "slug": "globalsignup-pulse-card3",
                   "card-type": "Signup Card"
                 }
               }
@@ -396,15 +492,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "InnoSupps Logo",
-                  "slug": "innosupps",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777e101f0bc14516e218f4c",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e101f0bc14516e218f4c_Innosupps.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "InnoSupps"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "InnoSupps Logo",
+                  "slug": "innosupps"
                 }
               },
               {
@@ -416,15 +516,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Murad Logo",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777a3a5a6f1de3ca3856220",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777a3a5a6f1de3ca3856220_Murad.svg",
                     "alt": null
                   },
-                  "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "Murad"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Murad Logo",
+                  "slug": "murad"
                 }
               },
               {
@@ -436,15 +540,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Weezie Logo",
-                  "slug": "weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Weezie",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b6909ec0a3f943781d1f",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6909ec0a3f943781d1f_weezie.svg",
                     "alt": null
                   },
-                  "card-title": "Weezie",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Weezie Logo",
+                  "slug": "weezie"
                 }
               },
               {
@@ -456,15 +564,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sakara Logo",
-                  "slug": "sakara",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777e10f6bdb47d1f41092df",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e10f6bdb47d1f41092df_Sakara.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "Sakara"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Sakara Logo",
+                  "slug": "sakara"
                 }
               },
               {
@@ -476,15 +588,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "KOS logo",
-                  "slug": "kos",
-                  "card-title": "KOS",
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "KOS",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b6503c4f7c8fa3469db1",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6503c4f7c8fa3469db1_KOS.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "KOS logo",
+                  "slug": "kos"
                 }
               },
               {
@@ -498,19 +614,25 @@ export const webflowResponse = [
                 "fieldData": {
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
                   "card-title": "Earth Breeze",
-                  "name": "Earth Breeze Logo",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b67c19a4857877f8abdb",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b67c19a4857877f8abdb_Earth%20Breeeze.svg",
                     "alt": null
                   },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Earth Breeze Logo",
                   "slug": "earth-breeze"
                 }
               }
             ],
-            "slug": "pulse-signup-page",
-            "page-subtitle": "250+ Ecommerce Brands and Agencies Love Saras",
-            "page-title": "Start Understanding Customer Behaviors for Real"
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Pulse",
+            "name": "Pulse_signup_page",
+            "slug": "pulse-signup-page"
           }
         },
         {
@@ -523,8 +645,9 @@ export const webflowResponse = [
           "isDraft": false,
           "fieldData": {
             "page-type-identifier": "bc15e2d7700c5fb96db2fcd1ceb5cbee",
-            "product-name": "Saras",
-            "name": "Saras_login_page",
+            "page-title": null,
+            "page-subtitle": null,
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "675170e5fccbc896488cf73b",
@@ -535,16 +658,29 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "e2b1708271f9fab690edf9972ba40c79",
                   "card-title": "Welcome Back! ",
+                  "card-type-internal-identifier": "e2b1708271f9fab690edf9972ba40c79",
                   "card-subtitle": "You're one step away from Experiencing the Power of Data Driven Growth ",
+                  "card-description": null,
+                  "card-pointers": null,
+                  "card-logo": null,
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
+                  "product-name": "Saras",
                   "name": "GlobalLogin_saras_card",
                   "slug": "globallogin-saras-card",
-                  "product-name": "Saras",
                   "card-type": "Plain Card"
                 }
               }
             ],
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Saras",
+            "name": "Saras_login_page",
             "slug": "saras-login-page"
           }
         },
@@ -558,10 +694,9 @@ export const webflowResponse = [
           "isDraft": false,
           "fieldData": {
             "page-type-identifier": "e67c8aab4f431877e3428c4c18f0a5ea",
-            "product-name": "Saras",
-            "name": "Saras_signup_page",
-            "page-subtitle": "250+ Ecommerce Brands and Agencies Love Saras",
             "page-title": "Your Data-Driven Ecommerce Growth Starts Here ",
+            "page-subtitle": "250+ Ecommerce Brands and Agencies Love Saras",
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "67503e39ca61ce816f97cf65",
@@ -572,11 +707,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "name": "Globalsignup_saras_card1",
-                  "page-name-internal-identifier": "saras signup page",
                   "card-title": "Saras Daton",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Move data from 200+ sources and transform them into analytics ready tables",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677e18360d834993933667af",
@@ -584,8 +719,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-saras-card1",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": "saras signup page",
                   "product-name": "Saras",
+                  "name": "Globalsignup_saras_card1",
+                  "slug": "globalsignup-saras-card1",
                   "card-type": "Signup Card"
                 }
               },
@@ -598,11 +739,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "name": "Globalsignup_saras_card2",
-                  "page-name-internal-identifier": "saras signup page",
                   "card-title": "Saras Pulse",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "All-in-one dashboards to visualize, analyze, and optimize business performance ",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677e18a317fa0aaceffdaaf8",
@@ -610,8 +751,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-saras-card2",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": "saras signup page",
                   "product-name": "Saras",
+                  "name": "Globalsignup_saras_card2",
+                  "slug": "globalsignup-saras-card2",
                   "card-type": "Signup Card"
                 }
               },
@@ -624,11 +771,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
-                  "name": "Globalsignup_saras_card3",
-                  "page-name-internal-identifier": "saras signup page",
                   "card-title": "Saras Data Consulting ",
+                  "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
+                  "card-subtitle": null,
                   "card-description": "Get a customized data solution with our expert consulting ",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677e185b94f8a483ec053dd6",
@@ -636,13 +783,18 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "globalsignup-saras-card3",
+                  "card-image": null,
+                  "card-primary-link": null,
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": "saras signup page",
                   "product-name": "Saras",
+                  "name": "Globalsignup_saras_card3",
+                  "slug": "globalsignup-saras-card3",
                   "card-type": "Signup Card"
                 }
               }
             ],
-            "slug": "saras-signup-page",
             "linked-client": [
               {
                 "id": "67288eaddc07c20fdc1fbc82",
@@ -653,15 +805,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "InnoSupps Logo",
-                  "slug": "innosupps",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "InnoSupps",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777e101f0bc14516e218f4c",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e101f0bc14516e218f4c_Innosupps.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "InnoSupps"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "InnoSupps Logo",
+                  "slug": "innosupps"
                 }
               },
               {
@@ -673,15 +829,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Murad Logo",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Murad",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777a3a5a6f1de3ca3856220",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777a3a5a6f1de3ca3856220_Murad.svg",
                     "alt": null
                   },
-                  "slug": "murad",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "Murad"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Murad Logo",
+                  "slug": "murad"
                 }
               },
               {
@@ -693,15 +853,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Weezie Logo",
-                  "slug": "weezie",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Weezie",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b6909ec0a3f943781d1f",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6909ec0a3f943781d1f_weezie.svg",
                     "alt": null
                   },
-                  "card-title": "Weezie",
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Weezie Logo",
+                  "slug": "weezie"
                 }
               },
               {
@@ -713,15 +877,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "Sakara Logo",
-                  "slug": "sakara",
+                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "Sakara",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777e10f6bdb47d1f41092df",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777e10f6bdb47d1f41092df_Sakara.svg",
                     "alt": null
                   },
-                  "card-type": "e6a054d19d1e29292949ca06e19a29ae",
-                  "card-title": "Sakara"
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Sakara Logo",
+                  "slug": "sakara"
                 }
               },
               {
@@ -733,15 +901,19 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "name": "KOS logo",
-                  "slug": "kos",
-                  "card-title": "KOS",
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
+                  "card-title": "KOS",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b6503c4f7c8fa3469db1",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b6503c4f7c8fa3469db1_KOS.svg",
                     "alt": null
-                  }
+                  },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "KOS logo",
+                  "slug": "kos"
                 }
               },
               {
@@ -755,16 +927,25 @@ export const webflowResponse = [
                 "fieldData": {
                   "card-type": "e6a054d19d1e29292949ca06e19a29ae",
                   "card-title": "Earth Breeze",
-                  "name": "Earth Breeze Logo",
+                  "card-subtitle": null,
+                  "card-description": null,
                   "client-logo": {
                     "fileId": "6777b67c19a4857877f8abdb",
                     "url": "https://cdn.prod.website-files.com/672882dbaf15942b1d3d3da7/6777b67c19a4857877f8abdb_Earth%20Breeeze.svg",
                     "alt": null
                   },
+                  "client-image": null,
+                  "page-name-identifier": null,
+                  "name": "Earth Breeze Logo",
                   "slug": "earth-breeze"
                 }
               }
-            ]
+            ],
+            "page-note": null,
+            "page-image": null,
+            "product-name": "Saras",
+            "name": "Saras_signup_page",
+            "slug": "saras-signup-page"
           }
         },
         {
@@ -776,7 +957,10 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
-            "name": "Saras_product_listing_page",
+            "page-type-identifier": null,
+            "page-title": null,
+            "page-subtitle": null,
+            "page-subtitle-2-optional": null,
             "linked-card": [
               {
                 "id": "67504003febe4fe41b53c0b1",
@@ -787,12 +971,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "daton",
-                  "name": "product_listing_about_daton_card1",
-                  "page-name-internal-identifier": "saras global home page",
                   "card-title": "Getting Started ",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Step-by-Step Guide to Getting Started with Daton ",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "67502c5f6bf206043e6af97b",
@@ -800,9 +983,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "daton-key-feature-card1",
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/en_US/daton-get-started/how-to-get-started-with-daton-setup",
+                  "card-secondary-link": null,
+                  "card-chip": "daton",
+                  "page-name-internal-identifier": "saras global home page",
                   "product-name": "Daton",
+                  "name": "product_listing_about_daton_card1",
+                  "slug": "daton-key-feature-card1",
                   "card-type": "Key Features"
                 }
               },
@@ -815,12 +1003,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Daton",
-                  "name": "product_listing_about_daton_card2",
                   "card-title": "Product Overview",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Overview of Key Pages in Daton ",
-                  "slug": "daton-key-feature-card2",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "67502d0fbbae0b4d3c898b0a",
@@ -828,8 +1015,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
+                  "card-secondary-link": null,
+                  "card-chip": "Daton",
+                  "page-name-internal-identifier": null,
                   "product-name": "Daton",
+                  "name": "product_listing_about_daton_card2",
+                  "slug": "daton-key-feature-card2",
                   "card-type": "Key Features"
                 }
               },
@@ -842,11 +1035,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Daton",
-                  "name": "product_listing_about_daton_card3",
                   "card-title": "Free Trial!",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Learn about our free trial and get an overview of the subscription plans",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "676d147ce4da924f77345314",
@@ -854,9 +1047,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "daton-key-feature-card3",
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/daton-free-trial",
+                  "card-secondary-link": null,
+                  "card-chip": "Daton",
+                  "page-name-internal-identifier": null,
                   "product-name": "Daton",
+                  "name": "product_listing_about_daton_card3",
+                  "slug": "daton-key-feature-card3",
                   "card-type": "Key Features"
                 }
               },
@@ -869,11 +1067,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Daton",
-                  "name": "product_listing_about_daton_card4",
                   "card-title": "Glossary",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Understand Key Terminology in Daton ",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "67502d3cf01754f4af7b461f",
@@ -881,9 +1079,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "daton-key-feature-card4",
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/terminology-in-daton",
+                  "card-secondary-link": null,
+                  "card-chip": "Daton",
+                  "page-name-internal-identifier": null,
                   "product-name": "Daton",
+                  "name": "product_listing_about_daton_card4",
+                  "slug": "daton-key-feature-card4",
                   "card-type": "Key Features"
                 }
               },
@@ -896,12 +1099,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Pulse",
-                  "name": "product_listing_about_pulse_card1",
-                  "page-name-internal-identifier": "saras global home page",
                   "card-title": "Getting Started ",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Step-by-Step Guide to Getting Started with Pulse ",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "676a44e3e7b86792139a3cc0",
@@ -909,9 +1111,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "pulse-key-feature-card1",
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/en_US/getting-started/setting-up-your-pulse-account",
+                  "card-secondary-link": null,
+                  "card-chip": "Pulse",
+                  "page-name-internal-identifier": "saras global home page",
                   "product-name": "Pulse",
+                  "name": "product_listing_about_pulse_card1",
+                  "slug": "pulse-key-feature-card1",
                   "card-type": "Key Features"
                 }
               },
@@ -924,11 +1131,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Pulse",
-                  "name": "product_listing_about_pulse_card2",
                   "card-title": "Product Overview ",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Overview of Key Pages in Pulse ",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "676a44d2b0a1f342a82862b2",
@@ -936,10 +1143,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "pulse-key-feature-card2",
-                  "page-name-internal-identifier": "saras global home page",
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-walkthrough",
+                  "card-secondary-link": null,
+                  "card-chip": "Pulse",
+                  "page-name-internal-identifier": "saras global home page",
                   "product-name": "Pulse",
+                  "name": "product_listing_about_pulse_card2",
+                  "slug": "pulse-key-feature-card2",
                   "card-type": "Key Features"
                 }
               },
@@ -952,12 +1163,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Pulse",
-                  "name": "product_listing_about_pulse_card3",
-                  "page-name-internal-identifier": "saras global home page",
                   "card-title": "Free Trial!",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Learn about our free trial and get an overview of the subscription plans",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677fa4b1c379599ae0daf958",
@@ -965,9 +1175,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
-                  "slug": "pulse-key-feature-card3",
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/free-trial-and-pricing",
+                  "card-secondary-link": null,
+                  "card-chip": "Pulse",
+                  "page-name-internal-identifier": "saras global home page",
                   "product-name": "Pulse",
+                  "name": "product_listing_about_pulse_card3",
+                  "slug": "pulse-key-feature-card3",
                   "card-type": "Key Features"
                 }
               },
@@ -980,13 +1195,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
-                  "card-chip": "Pulse",
-                  "name": "product_listing_about_pulse_card4",
-                  "page-name-internal-identifier": "saras global home page",
                   "card-title": "Glossary ",
+                  "card-type-internal-identifier": "1c2e07edad93807346dd0b4b97cea662",
+                  "card-subtitle": null,
                   "card-description": "Understand Key Terminology in Pulse ",
-                  "slug": "pulse-key-feature-card4",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "677fa4b1c379599ae0daf958",
@@ -994,8 +1207,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
+                  "card-image": null,
                   "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-glossary",
+                  "card-secondary-link": null,
+                  "card-chip": "Pulse",
+                  "page-name-internal-identifier": "saras global home page",
                   "product-name": "Pulse",
+                  "name": "product_listing_about_pulse_card4",
+                  "slug": "pulse-key-feature-card4",
                   "card-type": "Key Features"
                 }
               },
@@ -1008,13 +1227,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "0b331caea787bf6fc37c3346ce88f898",
                   "card-title": "Saras Daton",
+                  "card-type-internal-identifier": "0b331caea787bf6fc37c3346ce88f898",
+                  "card-subtitle": null,
                   "card-description": "ELT platform to move your data from 200+ sources and transform into analytics-ready tables",
-                  "name": "Globalsignup_daton_product_card",
-                  "slug": "globalsignup-daton-product-card",
-                  "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
-                  "product-name": "Daton",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "688a02a76e91cd1f8fec2b40",
@@ -1022,6 +1239,14 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
+                  "card-image": null,
+                  "card-primary-link": "https://help.sarasanalytics.com/daton-get-started/various-pages-in-daton",
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
+                  "product-name": "Daton",
+                  "name": "Globalsignup_daton_product_card",
+                  "slug": "globalsignup-daton-product-card",
                   "card-type": "With Primary link only"
                 }
               },
@@ -1034,13 +1259,11 @@ export const webflowResponse = [
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-type-internal-identifier": "0b331caea787bf6fc37c3346ce88f898",
                   "card-title": "Saras Pulse",
+                  "card-type-internal-identifier": "0b331caea787bf6fc37c3346ce88f898",
+                  "card-subtitle": null,
                   "card-description": "All-in-one dashboards to visualize, analyze, and optimize business performance",
-                  "name": "Globalsignup_pulse_product_card",
-                  "slug": "globalsignup-pulse-product-card",
-                  "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-walkthrough",
-                  "product-name": "Pulse",
+                  "card-pointers": null,
                   "card-logo": [
                     {
                       "fileId": "688a029097a7a9f8486abbc7",
@@ -1048,10 +1271,23 @@ export const webflowResponse = [
                       "alt": null
                     }
                   ],
+                  "card-image": null,
+                  "card-primary-link": "https://help.sarasanalytics.com/getting-started/product-walkthrough",
+                  "card-secondary-link": null,
+                  "card-chip": null,
+                  "page-name-internal-identifier": null,
+                  "product-name": "Pulse",
+                  "name": "Globalsignup_pulse_product_card",
+                  "slug": "globalsignup-pulse-product-card",
                   "card-type": "With Primary link only"
                 }
               }
             ],
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
+            "product-name": null,
+            "name": "Saras_product_listing_page",
             "slug": "saras-product-listing-page"
           }
         },
@@ -1064,13 +1300,17 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
             "page-title": "Welcome to",
             "page-subtitle": "Saras Daton",
+            "page-subtitle-2-optional": "Your Unified Data Platform",
+            "linked-card": null,
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
             "product-name": "Daton",
             "name": "Daton Splash Screen Page",
-            "slug": "daton-splash-screen-page",
-            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
-            "page-subtitle-2-optional": "Your Unified Data Platform"
+            "slug": "daton-splash-screen-page"
           }
         },
         {
@@ -1082,13 +1322,17 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
             "page-title": "Welcome to",
             "page-subtitle": "Saras Pulse",
+            "page-subtitle-2-optional": "Your Turn-key Reporting Solution",
+            "linked-card": null,
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
             "product-name": "Pulse",
             "name": "Pulse Splash Screen Page",
-            "slug": "pulse-splash-screen-page",
-            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
-            "page-subtitle-2-optional": "Your Turn-key Reporting Solution"
+            "slug": "pulse-splash-screen-page"
           }
         },
         {
@@ -1100,16 +1344,22 @@ export const webflowResponse = [
           "isArchived": false,
           "isDraft": false,
           "fieldData": {
+            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
             "page-title": "Welcome to",
             "page-subtitle": "Saras Data-suite",
+            "page-subtitle-2-optional": "Your Swiss Army Knife of Data",
+            "linked-card": null,
+            "linked-client": null,
+            "page-note": null,
+            "page-image": null,
             "product-name": "Saras",
             "name": "Saras Splash Screen Page",
-            "slug": "saras-splash-screen-page",
-            "page-type-identifier": "ec4b8848f3426bc6c8846fd78c575525",
-            "page-subtitle-2-optional": "Your Swiss Army Knife of Data"
+            "slug": "saras-splash-screen-page"
           }
         }
       ],
+      "pulse-onboarding-product-pages": null,
+      "name": "Saras",
       "slug": "saras"
     }
   }
