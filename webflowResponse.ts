@@ -734,15 +734,15 @@ export const webflowResponse = [
                 "id": "67503e6d3911a358777d3782",
                 "cmsLocaleId": "672882dbaf15942b1d3d3da6",
                 "lastPublished": null,
-                "lastUpdated": "2025-01-08T06:18:14.370Z",
+                "lastUpdated": "2026-09-30T16:13:37.576Z",
                 "createdOn": "2024-12-04T11:35:09.920Z",
                 "isArchived": false,
                 "isDraft": false,
                 "fieldData": {
-                  "card-title": "Saras Pulse",
+                  "card-title": "Saras iQ",
                   "card-type-internal-identifier": "5c476a199d1ccba7629b9c992c80af7c",
                   "card-subtitle": null,
-                  "card-description": "All-in-one dashboards to visualize, analyze, and optimize business performance ",
+                  "card-description": "AI-powered business analyst with pre-built dashboards and MCP support",
                   "card-pointers": null,
                   "card-logo": [
                     {
